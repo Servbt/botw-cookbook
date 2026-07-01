@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="bookid">urn:uuid:e90eb269-c672-43b6-88e4-6f9d04182614</dc:identifier>
+    <dc:title>The Wild Table</dc:title>
+    <dc:creator>Arian Rezvani with Hermes Agent</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:description>An unofficial real-world cookbook inspired by Breath of the Wild-style fantasy cooking, with original recipes for all cooking-pot meals and elixirs.</dc:description>
+    <meta property="dcterms:modified">2026-06-30T21:29:51Z</meta>
+  </metadata>
+  <manifest>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="css" href="styles/style.css" media-type="text/css"/>
+    <item id="chap1" href="chapter01.xhtml" media-type="application/xhtml+xml"/>
+<item id="chap2" href="chapter02.xhtml" media-type="application/xhtml+xml"/>
+<item id="chap3" href="chapter03.xhtml" media-type="application/xhtml+xml"/>
+<item id="chap4" href="chapter04.xhtml" media-type="application/xhtml+xml"/>
+<item id="chap5" href="chapter05.xhtml" media-type="application/xhtml+xml"/>
+<item id="chap6" href="chapter06.xhtml" media-type="application/xhtml+xml"/>
+<item id="chap7" href="chapter07.xhtml" media-type="application/xhtml+xml"/>
+<item id="chap8" href="chapter08.xhtml" media-type="application/xhtml+xml"/>
+<item id="chap9" href="chapter09.xhtml" media-type="application/xhtml+xml"/>
+<item id="chap10" href="chapter10.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="chap1"/>
+<itemref idref="chap2"/>
+<itemref idref="chap3"/>
+<itemref idref="chap4"/>
+<itemref idref="chap5"/>
+<itemref idref="chap6"/>
+<itemref idref="chap7"/>
+<itemref idref="chap8"/>
+<itemref idref="chap9"/>
+<itemref idref="chap10"/>
+  </spine>
+</package>

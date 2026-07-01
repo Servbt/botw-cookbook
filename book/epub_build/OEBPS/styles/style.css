@@ -1,0 +1,13 @@
+
+:root{--bg:#fffaf0;--ink:#24170f;--muted:#6f5946;--accent:#b56a1d;--line:#e2c9a6;}
+body{font-family: Georgia, 'Times New Roman', serif; color:var(--ink); background:var(--bg); line-height:1.55; margin:0;}
+.book{max-width:850px; margin:0 auto; padding:48px 36px 96px;}
+h1{font-size:2.4rem; color:#5a2f12; border-bottom:3px solid var(--accent); padding-bottom:.3rem; page-break-before:always;}
+h1:first-child{page-break-before:auto; text-align:center; font-size:3.2rem; border:0; margin-top:18vh;}
+h2{font-size:1.55rem; color:#7a4218; margin-top:2rem;}
+h3{font-size:1.35rem; color:#3b2415; margin-top:2.2rem; border-top:1px solid var(--line); padding-top:1.2rem;}
+p,li{font-size:1rem;} strong{color:#3a2112;} code{background:#f4e7d2; padding:0 .25em; border-radius:3px;}
+hr{border:0; border-top:1px solid var(--line); margin:2rem 0;}
+ul,ol{padding-left:1.4rem;} .toc ul{columns:2;} .cover-sub{text-align:center; color:var(--muted); font-style:italic;}
+.recipe-count{background:#f7ead5; border:1px solid var(--line); padding:1rem; border-radius:12px;}
+@media print{body{background:white}.book{padding:0} h1{page-break-before:always} h3{page-break-after:avoid} ul,ol{page-break-inside:avoid}}
