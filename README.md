@@ -24,3 +24,16 @@ Keep the final book clearly unofficial/fan-made and use original prose, original
 ## Book exports
 - `book/The_Wild_Table.epub` — ebook version for Apple Books, Kindle conversion, Calibre, etc.
 - `book/The_Wild_Table.html` — printable/styled web book version.
+
+## GitHub Pages site
+- `docs/index.html` — GitHub Pages landing page with book navigation.
+- `docs/chapters/` — chapter pages split from the EPUB source.
+- `docs/styles/site.css` — responsive sidebar/navigation styling.
+- `docs/book/The_Wild_Table.epub` — downloadable EPUB from the site.
+
+To publish with GitHub Pages:
+1. Push this repository to GitHub.
+2. In GitHub, open **Settings → Pages**.
+3. Set **Source** to **Deploy from a branch**.
+4. Select branch `main` and folder `/docs`.
+5. Save. The site will publish at `https://<username>.github.io/<repo>/`.
