@@ -1,0 +1,972 @@
+{
+  "source": "Game8 TotK cooked/elixir recipe pages",
+  "source_urls": [
+    "https://game8.co/games/Zelda-Tears-of-the-Kingdom/archives/411134",
+    "https://game8.co/games/Zelda-Tears-of-the-Kingdom/archives/411135"
+  ],
+  "cooked": [
+    {
+      "no": 1,
+      "dish": "Mushroom Skewer",
+      "ingredients": "\u30fb Any Mushroom",
+      "heal": "1"
+    },
+    {
+      "no": 5,
+      "dish": "Fish Skewer",
+      "ingredients": "\u30fb Any Fish",
+      "heal": "2"
+    },
+    {
+      "no": 16,
+      "dish": "Fried Wild Greens",
+      "ingredients": "\u30fb Any Wild Green",
+      "heal": "1"
+    },
+    {
+      "no": 47,
+      "dish": "Simmered Fruit",
+      "ingredients": "\u30fb Any Fruit",
+      "heal": "1"
+    },
+    {
+      "no": 2,
+      "dish": "Meat and Mushroom Skewer",
+      "ingredients": "\u30fb Any Meat \u30fb and Any Mushroom",
+      "heal": "3"
+    },
+    {
+      "no": 3,
+      "dish": "Fish and Mushroom Skewer",
+      "ingredients": "\u30fb Any Fish \u30fb and Any Mushroom",
+      "heal": "3"
+    },
+    {
+      "no": 4,
+      "dish": "Meat Skewer",
+      "ingredients": "\u30fb Any Meat",
+      "heal": "2"
+    },
+    {
+      "no": 6,
+      "dish": "Seafood Skewer",
+      "ingredients": "\u30fb Any Seafood \u30fb and Any Fish",
+      "heal": "2"
+    },
+    {
+      "no": 7,
+      "dish": "Copious Meat Skewers",
+      "ingredients": "\u30fb Any 4 different kinds of Meat",
+      "heal": "10"
+    },
+    {
+      "no": 8,
+      "dish": "Copious Seafood Skewers",
+      "ingredients": "\u30fb Any 4 different kinds of Seafood",
+      "heal": "8"
+    },
+    {
+      "no": 9,
+      "dish": "Steamed Fruit",
+      "ingredients": "\u30fb Any Fruit \u30fb and Any Wild Green",
+      "heal": "3"
+    },
+    {
+      "no": 10,
+      "dish": "Steamed Tomatoes",
+      "ingredients": "\u30fb Hylian Tomato \u30fb and Any Wild Green",
+      "heal": "4"
+    },
+    {
+      "no": 11,
+      "dish": "Steamed Mushrooms",
+      "ingredients": "\u30fb Any Mushroom \u30fb and Any Wild Green",
+      "heal": "3"
+    },
+    {
+      "no": 12,
+      "dish": "Steamed Meat",
+      "ingredients": "\u30fb Any Meat \u30fb and Any Wild Green",
+      "heal": "2"
+    },
+    {
+      "no": 13,
+      "dish": "Steamed Fish",
+      "ingredients": "\u30fb Any Fish \u30fb and Any Wild Green",
+      "heal": "4"
+    },
+    {
+      "no": 14,
+      "dish": "Sauteed Peppers",
+      "ingredients": "\u30fb Spicy Pepper Cold Resistance",
+      "heal": "1"
+    },
+    {
+      "no": 15,
+      "dish": "Sauteed Nuts",
+      "ingredients": "\u30fb Chickaloo Tree Nut / Acorn",
+      "heal": "0.5"
+    },
+    {
+      "no": 17,
+      "dish": "Copious Fried Wild Greens",
+      "ingredients": "\u30fb Any 4 different kinds of Wild Green",
+      "heal": "3"
+    },
+    {
+      "no": 18,
+      "dish": "Cooked Stambulb",
+      "ingredients": "\u30fb Stambulb",
+      "heal": "1 0.2"
+    },
+    {
+      "no": 19,
+      "dish": "Buttered Stambulb",
+      "ingredients": "\u30fb Stambulb \u30fb and Goat Butter",
+      "heal": "1 0.2"
+    },
+    {
+      "no": 20,
+      "dish": "Copious Mushroom Skewers",
+      "ingredients": "\u30fb Any 4 different type of Mushrooms",
+      "heal": "4"
+    },
+    {
+      "no": 21,
+      "dish": "Spiced Meat Skewer",
+      "ingredients": "\u30fb Raw Meat \u30fb and Goron Spice",
+      "heal": "2"
+    },
+    {
+      "no": 22,
+      "dish": "Prime Spiced Meat Skewer",
+      "ingredients": "\u30fb Raw Prime Meat \u30fb and Goron Spice",
+      "heal": "3"
+    },
+    {
+      "no": 23,
+      "dish": "Gourmet Spiced Meat Skewer",
+      "ingredients": "\u30fb Raw Gourmet Meat \u30fb and Goron Spice",
+      "heal": "6"
+    },
+    {
+      "no": 24,
+      "dish": "Crab Stir-Fry",
+      "ingredients": "\u30fb Any Crab \u30fb and Goron Spice",
+      "heal": "2"
+    },
+    {
+      "no": 25,
+      "dish": "Meat and Seafood Fry",
+      "ingredients": "\u30fb Raw Meat / Raw Bird Drumstick \u30fb and Any Seafood",
+      "heal": "6"
+    },
+    {
+      "no": 26,
+      "dish": "Prime Meat and Seafood Fry",
+      "ingredients": "\u30fb Raw Prime Meat \u30fb and Any Seafood",
+      "heal": "5"
+    },
+    {
+      "no": 27,
+      "dish": "Gourmet Meat and Seafood Fry",
+      "ingredients": "\u30fb Raw Gourmet Meat \u30fb and Any Seafood",
+      "heal": "8"
+    },
+    {
+      "no": 28,
+      "dish": "Salt-Grilled Greens",
+      "ingredients": "\u30fb Any Wild Green \u30fb and Rock Salt",
+      "heal": "2"
+    },
+    {
+      "no": 29,
+      "dish": "Salt-Grilled Mushrooms",
+      "ingredients": "\u30fb Any Mushroom \u30fb and Rock Salt",
+      "heal": "1"
+    },
+    {
+      "no": 30,
+      "dish": "Salt-Grilled Meat",
+      "ingredients": "\u30fb Raw Meat / Raw Bird Drumstick \u30fb and Rock Salt",
+      "heal": "2"
+    },
+    {
+      "no": 31,
+      "dish": "Salt-Grilled Prime Meat",
+      "ingredients": "\u30fb Raw Prime Meat / Raw Bird Thigh \u30fb and Rock Salt",
+      "heal": "3"
+    },
+    {
+      "no": 32,
+      "dish": "Salt-Grilled Gourmet Meat",
+      "ingredients": "\u30fb Raw Gourmet Meat / Raw Whole Bird \u30fb and Rock Salt",
+      "heal": "6"
+    },
+    {
+      "no": 33,
+      "dish": "Salt-Grilled Fish",
+      "ingredients": "\u30fb Any Fish \u30fb and Rock Salt",
+      "heal": "2"
+    },
+    {
+      "no": 34,
+      "dish": "Salt-Grilled Crab",
+      "ingredients": "\u30fb Any Crab \u30fb and Rock Salt",
+      "heal": "2"
+    },
+    {
+      "no": 35,
+      "dish": "Herb Saute",
+      "ingredients": "\u30fb Any Wild Green \u30fb and Goron Spice",
+      "heal": "2"
+    },
+    {
+      "no": 36,
+      "dish": "Fragrant Mushroom Saute",
+      "ingredients": "\u30fb Any Mushroom \u30fb and Goron Spice",
+      "heal": "1"
+    },
+    {
+      "no": 37,
+      "dish": "Pepper Steak",
+      "ingredients": "\u30fb Any Meat \u30fb and Spicy Pepper Cold Resistance",
+      "heal": "3"
+    },
+    {
+      "no": 38,
+      "dish": "Pepper Seafood",
+      "ingredients": "\u30fb Any Seafood \u30fb and Spicy Pepper Cold Resistance",
+      "heal": "3"
+    },
+    {
+      "no": 39,
+      "dish": "Fragrant Seafood Stew",
+      "ingredients": "\u30fb Any Seafood \u30fb Stambulb \u30fb and Oil Jar",
+      "heal": "3"
+    },
+    {
+      "no": 40,
+      "dish": "Deep-Fried Drumstick",
+      "ingredients": "\u30fb Raw Bird Drumstick \u30fb and Oil Jar",
+      "heal": "2"
+    },
+    {
+      "no": 41,
+      "dish": "Deep-Fried Thigh",
+      "ingredients": "\u30fb Raw Bird Thigh \u30fb and Oil Jar",
+      "heal": "3"
+    },
+    {
+      "no": 42,
+      "dish": "Deep-Fried Bird Roast",
+      "ingredients": "\u30fb Raw Whole Bird \u30fb and Oil Jar",
+      "heal": "6"
+    },
+    {
+      "no": 43,
+      "dish": "Seafood Meuniere",
+      "ingredients": "\u30fb Any Seafood (Except for Hearty Salmon and Porgy) \u30fb Tabantha Wheat \u30fb and Goat Butter",
+      "heal": "4"
+    },
+    {
+      "no": 44,
+      "dish": "Porgy Meuniere",
+      "ingredients": "\u30fb Mighty Porgy / Armored Porgy \u30fb Tabantha Wheat \u30fb and Goat Butter",
+      "heal": "4"
+    },
+    {
+      "no": 45,
+      "dish": "Salmon Meuniere",
+      "ingredients": "\u30fb Hearty Salmon \u30fb Tabantha Wheat \u30fb and Goat Butter",
+      "heal": "Max +4"
+    },
+    {
+      "no": 46,
+      "dish": "Fruit and Mushroom Mix",
+      "ingredients": "\u30fb Any Mushroom \u30fb and Any Fruit",
+      "heal": "2"
+    },
+    {
+      "no": 48,
+      "dish": "Copious Simmered Fruit",
+      "ingredients": "\u30fb Any 4 different types of Fruits",
+      "heal": "5"
+    },
+    {
+      "no": 49,
+      "dish": "Simmered Tomato",
+      "ingredients": "\u30fb Hylian Tomato",
+      "heal": "2"
+    },
+    {
+      "no": 50,
+      "dish": "Fruity Tomato Stew",
+      "ingredients": "\u30fb Hylian Tomato \u30fb Fresh Milk \u30fb and Rock Salt",
+      "heal": "3"
+    },
+    {
+      "no": 51,
+      "dish": "Tomato Mushroom Stew",
+      "ingredients": "\u30fb Hylian Tomato \u30fb and Any Mushroom",
+      "heal": "6.5"
+    },
+    {
+      "no": 52,
+      "dish": "Tomato Seafood Soup",
+      "ingredients": "\u30fb Any Seafood \u30fb and Hylian Tomato",
+      "heal": "4"
+    },
+    {
+      "no": 53,
+      "dish": "Cream of Vegetable Soup",
+      "ingredients": "\u30fb Any Wild Green (except pumpkins or carrots) \u30fb Fresh Milk \u30fb and Rock Salt",
+      "heal": "3"
+    },
+    {
+      "no": 54,
+      "dish": "Veggie Cream Soup",
+      "ingredients": "\u30fb Any Pumpkin / Any Carrot \u30fb Fresh Milk \u30fb and Rock Salt",
+      "heal": "2"
+    },
+    {
+      "no": 55,
+      "dish": "Cream of Mushroom Soup",
+      "ingredients": "\u30fb Any Mushroom \u30fb Any Wild Green \u30fb Fresh Milk \u30fb and Rock Salt",
+      "heal": "4"
+    },
+    {
+      "no": 56,
+      "dish": "Creamy Meat Soup",
+      "ingredients": "\u30fb Raw Meat \u30fb Fresh Milk \u30fb Rock Salt \u30fb and Any Wild Green",
+      "heal": "5"
+    },
+    {
+      "no": 57,
+      "dish": "Creamy Seafood Soup",
+      "ingredients": "\u30fb Any Seafood \u30fb Any Wild Green \u30fb Fresh Milk \u30fb and Rock Salt",
+      "heal": "5"
+    },
+    {
+      "no": 58,
+      "dish": "Snail Chowder",
+      "ingredients": "\u30fb Sneaky River Snail \u30fb Tabantha Wheat \u30fb Goat Butter \u30fb and Fresh Milk Stealth Up",
+      "heal": "5"
+    },
+    {
+      "no": 59,
+      "dish": "Creamy Heart Soup",
+      "ingredients": "\u30fb Hearty Radish / Big Hearty Radish \u30fb Hydromelon \u30fb Voltfruit \u30fb and Fresh Milk",
+      "heal": "8"
+    },
+    {
+      "no": 60,
+      "dish": "Glazed Veggies",
+      "ingredients": "\u30fb Any Wild Green \u30fb and Courser Bee Honey",
+      "heal": "6"
+    },
+    {
+      "no": 61,
+      "dish": "Glazed Mushroom",
+      "ingredients": "\u30fb Any Mushroom \u30fb and Courser Bee Honey",
+      "heal": "5"
+    },
+    {
+      "no": 62,
+      "dish": "Glazed Meat",
+      "ingredients": "\u30fb Any Meat \u30fb and Courser Bee Honey",
+      "heal": "6 0.4"
+    },
+    {
+      "no": 63,
+      "dish": "Glazed Seafood",
+      "ingredients": "\u30fb Any Seafood \u30fb and Courser Bee Honey",
+      "heal": "6"
+    },
+    {
+      "no": 64,
+      "dish": "Curry Rice",
+      "ingredients": "\u30fb Hylian Rice \u30fb and Goron Spice",
+      "heal": "2"
+    },
+    {
+      "no": 65,
+      "dish": "Vegetable Curry",
+      "ingredients": "\u30fb Any Carrot / Any Pumpkin \u30fb Goron Spice \u30fb and Hylian Rice",
+      "heal": "3"
+    },
+    {
+      "no": 66,
+      "dish": "Meat Curry",
+      "ingredients": "\u30fb Raw Meat \u30fb Goron Spice \u30fb and Hylian Rice",
+      "heal": "4"
+    },
+    {
+      "no": 67,
+      "dish": "Prime Meat Curry",
+      "ingredients": "\u30fb Raw Prime Meat \u30fb Goron Spice \u30fb and Hylian Rice",
+      "heal": "5"
+    },
+    {
+      "no": 68,
+      "dish": "Gourmet Meat Curry",
+      "ingredients": "\u30fb Raw Gourmet Meat \u30fb Goron Spice \u30fb and Hylian Rice",
+      "heal": "8"
+    },
+    {
+      "no": 69,
+      "dish": "Poultry Curry",
+      "ingredients": "\u30fb Raw Bird Drumstick \u30fb Goron Spice \u30fb and Hylian Rice",
+      "heal": "4"
+    },
+    {
+      "no": 70,
+      "dish": "Prime Poultry Curry",
+      "ingredients": "\u30fb Raw Bird Thigh \u30fb Goron Spice \u30fb and Hylian Rice",
+      "heal": "5"
+    },
+    {
+      "no": 71,
+      "dish": "Gourmet Poultry Curry",
+      "ingredients": "\u30fb Raw Whole Bird \u30fb Hylian Rice \u30fb and Goron Spice",
+      "heal": "8"
+    },
+    {
+      "no": 72,
+      "dish": "Seafood Curry",
+      "ingredients": "\u30fb Mighty Porgy / Armored Porgy \u30fb Hylian Rice \u30fb and Goron Spice",
+      "heal": "4"
+    },
+    {
+      "no": 73,
+      "dish": "Cheesy Curry",
+      "ingredients": "\u30fb Hateno Cheese \u30fb Hylian Rice \u30fb and Goron Spice",
+      "heal": "4"
+    },
+    {
+      "no": 74,
+      "dish": "Carrot Stew",
+      "ingredients": "\u30fb Any Carrot \u30fb Tabantha Wheat \u30fb Goat Butter \u30fb and Fresh Milk",
+      "heal": "4"
+    },
+    {
+      "no": 75,
+      "dish": "Pumpkin Stew",
+      "ingredients": "\u30fb Any Pumpkin \u30fb Tabantha Wheat \u30fb Fresh Milk \u30fb and Goat Butter",
+      "heal": "4"
+    },
+    {
+      "no": 76,
+      "dish": "Meat Stew",
+      "ingredients": "\u30fb Raw Meat / Raw Bird Drumstick \u30fb Tabantha Wheat \u30fb Goat Butter \u30fb and Fresh Milk",
+      "heal": "7"
+    },
+    {
+      "no": 77,
+      "dish": "Prime Meat Stew",
+      "ingredients": "\u30fb Raw Prime Meat / Raw Bird Thigh \u30fb Tabantha Wheat \u30fb Goat Butter \u30fb and Fresh Milk",
+      "heal": "9"
+    },
+    {
+      "no": 78,
+      "dish": "Gourmet Meat Stew",
+      "ingredients": "\u30fb Raw Gourmet Meat / Raw Whole Bird \u30fb Goat Butter \u30fb Fresh Milk \u30fb and Tabantha Wheat",
+      "heal": "9"
+    },
+    {
+      "no": 79,
+      "dish": "Meat-Stuffed Pumpkin",
+      "ingredients": "\u30fb Any Pumpkin \u30fb and any Meat",
+      "heal": "3"
+    },
+    {
+      "no": 80,
+      "dish": "Vegetable Risotto",
+      "ingredients": "\u30fb Any Pumpkin / Any Carrot \u30fb Hylian Rice \u30fb Rock Salt \u30fb and Goat Butter",
+      "heal": "3"
+    },
+    {
+      "no": 81,
+      "dish": "Mushroom Risotto",
+      "ingredients": "\u30fb Hylian Rice \u30fb Goat Butter \u30fb Rock Salt \u30fb and Any Mushroom",
+      "heal": "3"
+    },
+    {
+      "no": 82,
+      "dish": "Salmon Risotto",
+      "ingredients": "\u30fb Hearty Salmon \u30fb Hylian Rice \u30fb Goat Butter \u30fb and Rock Salt",
+      "heal": "Max +4"
+    },
+    {
+      "no": 83,
+      "dish": "Crab Risotto",
+      "ingredients": "\u30fb Any Crab \u30fb Hylian Rice \u30fb Goat Butter \u30fb and Rock Salt",
+      "heal": "4"
+    },
+    {
+      "no": 84,
+      "dish": "Cheesy Risotto",
+      "ingredients": "\u30fb Any Fish / Any Mushroom or Wild Green \u30fb Hylian Rice \u30fb Rock Salt \u30fb and Hateno Cheese",
+      "heal": "6"
+    },
+    {
+      "no": 85,
+      "dish": "Poultry Pilaf",
+      "ingredients": "\u30fb Raw Bird Drumstick \u30fb Hylian Rice \u30fb Bird Egg \u30fb and Goat Butter",
+      "heal": "6"
+    },
+    {
+      "no": 86,
+      "dish": "Prime Poultry Pilaf",
+      "ingredients": "\u30fb Raw Bird Thigh \u30fb Hylian Rice \u30fb Bird Egg \u30fb and Goat Butter",
+      "heal": "7"
+    },
+    {
+      "no": 87,
+      "dish": "Gourmet Poultry Pilaf",
+      "ingredients": "\u30fb Raw Whole Bird \u30fb Hylian Rice \u30fb Goat Butter \u30fb and Bird Egg",
+      "heal": "10"
+    },
+    {
+      "no": 88,
+      "dish": "Seafood Paella",
+      "ingredients": "\u30fb Mighty Porgy / Armored Porgy \u30fb Any Crab(Ironshell Crab or Razorclaw Crab) \u30fb Hylian Rice \u30fb Rock Salt \u30fb and Goat Butter",
+      "heal": "6"
+    },
+    {
+      "no": 89,
+      "dish": "Curry Pilaf",
+      "ingredients": "\u30fb Hylian Rice \u30fb Goron Spice \u30fb and Goat Butter",
+      "heal": "2"
+    },
+    {
+      "no": 90,
+      "dish": "Fried Egg and Rice",
+      "ingredients": "\u30fb Bird Egg \u30fb and Hylian Rice",
+      "heal": "4"
+    },
+    {
+      "no": 91,
+      "dish": "Crunchy Fried Rice",
+      "ingredients": "\u30fb Any Meat \u30fb Hylian Rice \u30fb Bird Egg \u30fb and Oil Jar",
+      "heal": "6"
+    },
+    {
+      "no": 92,
+      "dish": "Seafood Fried Rice",
+      "ingredients": "\u30fb Mighty Porgy / Armored Porgy \u30fb Hylian Rice \u30fb and Rock Salt",
+      "heal": "4"
+    },
+    {
+      "no": 93,
+      "dish": "Crab Omelet with Rice",
+      "ingredients": "\u30fb Any Crab \u30fb Hylian Rice \u30fb Bird Egg \u30fb and Rock Salt",
+      "heal": "6"
+    },
+    {
+      "no": 94,
+      "dish": "Meat and Rice Bowl",
+      "ingredients": "\u30fb Raw Meat \u30fb Rock Salt \u30fb and Hylian Rice",
+      "heal": "4"
+    },
+    {
+      "no": 95,
+      "dish": "Prime Meat and Rice Bowl",
+      "ingredients": "\u30fb Raw Prime Meat \u30fb Rock Salt \u30fb and Hylian Rice",
+      "heal": "5"
+    },
+    {
+      "no": 96,
+      "dish": "Gourmet Meat and Rice Bowl",
+      "ingredients": "\u30fb Raw Gourmet Meat \u30fb Rock Salt \u30fb and Hylian Rice",
+      "heal": "8"
+    },
+    {
+      "no": 97,
+      "dish": "Cheesy Meat Bowl",
+      "ingredients": "\u30fb Raw Meat \u30fb Hylian Rice \u30fb Rock Salt \u30fb and Hateno Cheese",
+      "heal": "6"
+    },
+    {
+      "no": 98,
+      "dish": "Prime Cheesy Meat Bowl",
+      "ingredients": "\u30fb Raw Prime Meat \u30fb Hylian Rice \u30fb Rock Salt \u30fb and Hateno Cheese",
+      "heal": "7"
+    },
+    {
+      "no": 99,
+      "dish": "Gourmet Cheesy Meat Bowl",
+      "ingredients": "\u30fb Raw Gourmet Meat \u30fb Hylian Rice \u30fb Rock Salt \u30fb and Hateno Cheese",
+      "heal": "10"
+    },
+    {
+      "no": 100,
+      "dish": "Veggie Rice Balls",
+      "ingredients": "\u30fb Hylian Rice \u30fb and Any Wild Green",
+      "heal": "4"
+    },
+    {
+      "no": 101,
+      "dish": "Mushroom Rice Balls",
+      "ingredients": "\u30fb Hylian Rice \u30fb and Any Mushroom",
+      "heal": "3"
+    },
+    {
+      "no": 102,
+      "dish": "Meaty Rice Balls",
+      "ingredients": "\u30fb Hylian Rice \u30fb and Any Meat",
+      "heal": "7"
+    },
+    {
+      "no": 103,
+      "dish": "Seafood Rice Balls",
+      "ingredients": "\u30fb Any Seafood \u30fb and Hylian Rice",
+      "heal": "4"
+    },
+    {
+      "no": 104,
+      "dish": "Veggie Porridge",
+      "ingredients": "\u30fb Fresh Milk \u30fb Hylian Rice \u30fb and Any Wild Green",
+      "heal": "5"
+    },
+    {
+      "no": 105,
+      "dish": "Wheat Bread",
+      "ingredients": "\u30fb Tabantha Wheat \u30fb and Rock Salt",
+      "heal": "2"
+    },
+    {
+      "no": 106,
+      "dish": "Melty Cheesy Bread",
+      "ingredients": "\u30fb Hateno Cheese \u30fb and Tabantha Wheat",
+      "heal": "4"
+    },
+    {
+      "no": 107,
+      "dish": "Hylian Tomato Pizza",
+      "ingredients": "\u30fb Hateno Cheese \u30fb Hylian Tomato \u30fb and Tabantha Wheat",
+      "heal": "6"
+    },
+    {
+      "no": 108,
+      "dish": "Meat Pie",
+      "ingredients": "\u30fb Any Meat \u30fb Tabantha Wheat \u30fb Goat Butter \u30fb and Rock Salt",
+      "heal": "4"
+    },
+    {
+      "no": 109,
+      "dish": "Fish Pie",
+      "ingredients": "\u30fb Any Fish \u30fb Tabantha Wheat \u30fb Goat Butter \u30fb and Rock Salt",
+      "heal": "4"
+    },
+    {
+      "no": 110,
+      "dish": "Cheesy Tomato",
+      "ingredients": "\u30fb Hateno Cheese \u30fb and Hylian Tomato",
+      "heal": "4"
+    },
+    {
+      "no": 111,
+      "dish": "Cheesy Baked Fish",
+      "ingredients": "\u30fb Hateno Cheese \u30fb and Any Fish",
+      "heal": "4"
+    },
+    {
+      "no": 112,
+      "dish": "Omelet",
+      "ingredients": "\u30fb Bird Egg",
+      "heal": "2"
+    },
+    {
+      "no": 113,
+      "dish": "Vegetable Omelet",
+      "ingredients": "\u30fb Bird Egg \u30fb Goat Butter \u30fb Rock Salt \u30fb and Any Wild Green",
+      "heal": "4"
+    },
+    {
+      "no": 114,
+      "dish": "Mushroom Omelet",
+      "ingredients": "\u30fb Bird Egg \u30fb Goat Butter \u30fb Rock Salt \u30fb and Any Mushroom",
+      "heal": "3"
+    },
+    {
+      "no": 115,
+      "dish": "Cheesy Omelet",
+      "ingredients": "\u30fb Any Mushroom / Any Wild Green \u30fb Hateno Cheese \u30fb Bird Egg \u30fb Rock Salt \u30fb and Goat Butter",
+      "heal": "5"
+    },
+    {
+      "no": 116,
+      "dish": "Hot Buttered Apple",
+      "ingredients": "\u30fb Apple / Golden Apple \u30fb and Goat Butter",
+      "heal": "2"
+    },
+    {
+      "no": 117,
+      "dish": "Honeyed Fruits",
+      "ingredients": "\u30fb Courser Bee Honey \u30fb and Any Fruit (except apple)",
+      "heal": "5"
+    },
+    {
+      "no": 118,
+      "dish": "Honeyed Apple",
+      "ingredients": "\u30fb Courser Bee Honey \u30fb and Apple",
+      "heal": "5 0.4"
+    },
+    {
+      "no": 119,
+      "dish": "Honey Candy",
+      "ingredients": "\u30fb Courser Bee Honey",
+      "heal": "2 0.4"
+    },
+    {
+      "no": 120,
+      "dish": "Fried Bananas",
+      "ingredients": "\u30fb Mighty Bananas \u30fb Tabantha Wheat \u30fb and Cane Sugar Attack Up",
+      "heal": "3"
+    },
+    {
+      "no": 121,
+      "dish": "Egg Pudding",
+      "ingredients": "\u30fb Bird Egg \u30fb Fresh Milk \u30fb and Cane Sugar",
+      "heal": "3"
+    },
+    {
+      "no": 122,
+      "dish": "Plain Crepe",
+      "ingredients": "\u30fb Bird Egg \u30fb Tabantha Wheat \u30fb Fresh Milk \u30fb and Cane Sugar",
+      "heal": "5"
+    },
+    {
+      "no": 123,
+      "dish": "Wildberry Crepe",
+      "ingredients": "\u30fb Wildberry \u30fb Bird Egg \u30fb Tabantha Wheat \u30fb Fresh Milk \u30fb and Cane Sugar",
+      "heal": "10"
+    },
+    {
+      "no": 124,
+      "dish": "Honey Crepe",
+      "ingredients": "\u30fb Courser Bee Honey \u30fb Bird Egg \u30fb Tabantha Wheat \u30fb Fresh Milk \u30fb and Cane Sugar",
+      "heal": "10 0.4"
+    },
+    {
+      "no": 125,
+      "dish": "Nutcake",
+      "ingredients": "\u30fb Chickaloo Tree Nut / Acorn \u30fb Tabantha Wheat \u30fb Cane Sugar \u30fb and Goat Butter",
+      "heal": "3"
+    },
+    {
+      "no": 126,
+      "dish": "Fruitcake",
+      "ingredients": "\u30fb Any two different fruits \u30fb Cane Sugar \u30fb and Tabantha Wheat",
+      "heal": "5"
+    },
+    {
+      "no": 127,
+      "dish": "Carrot Cake",
+      "ingredients": "\u30fb Swift Carrot / Endura Carrot \u30fb Cane Sugar \u30fb Tabantha Wheat \u30fb and Goat Butter",
+      "heal": "3"
+    },
+    {
+      "no": 128,
+      "dish": "Pumpkin Pie",
+      "ingredients": "\u30fb Fortified Pumpkin / Sun Pumpkin \u30fb Tabantha Wheat \u30fb Cane Sugar \u30fb and Goat Butter",
+      "heal": "3"
+    },
+    {
+      "no": 129,
+      "dish": "Cheesecake",
+      "ingredients": "\u30fb Hateno Cheese \u30fb Tabantha Wheat \u30fb Cane Sugar \u30fb and Goat Butter",
+      "heal": "4"
+    },
+    {
+      "no": 130,
+      "dish": "Fruit Pie",
+      "ingredients": "\u30fb Any Fruit (except apple) \u30fb Tabantha Wheat \u30fb Cane Sugar \u30fb and Goat Butter",
+      "heal": "2"
+    },
+    {
+      "no": 131,
+      "dish": "Apple Pie",
+      "ingredients": "\u30fb Apple / Golden Apple \u30fb Tabantha Wheat \u30fb Cane Sugar \u30fb and Goat Butter",
+      "heal": "3"
+    },
+    {
+      "no": 132,
+      "dish": "Egg Tart",
+      "ingredients": "\u30fb Bird Egg \u30fb Tabantha Wheat \u30fb Cane Sugar \u30fb and Goat Butter",
+      "heal": "4"
+    },
+    {
+      "no": 133,
+      "dish": "Milk",
+      "ingredients": "\u30fb Fresh Milk",
+      "heal": "2.5"
+    },
+    {
+      "no": 134,
+      "dish": "Noble Pursuit",
+      "ingredients": "\u30fb Palm Fruit \u30fb Hydromelon \u30fb Voltfruit \u30fb and Rock Salt",
+      "heal": "4"
+    },
+    {
+      "no": 135,
+      "dish": "Monster Stew",
+      "ingredients": "\u30fb Monster Extract \u30fb Any Meat \u30fb and Any Fish",
+      "heal": "0.25"
+    },
+    {
+      "no": 136,
+      "dish": "Monster Soup",
+      "ingredients": "\u30fb Monster Extract \u30fb Tabantha Wheat \u30fb Fresh Milk \u30fb and Goat Butter",
+      "heal": "0.25"
+    },
+    {
+      "no": 137,
+      "dish": "Monster Curry",
+      "ingredients": "\u30fb Monster Extract \u30fb Goron Spice \u30fb and Hylian Rice",
+      "heal": "0.25"
+    },
+    {
+      "no": 138,
+      "dish": "Monster Rice Balls",
+      "ingredients": "\u30fb Monster Extract \u30fb Hylian Rice \u30fb and Rock Salt",
+      "heal": "0.25"
+    },
+    {
+      "no": 139,
+      "dish": "Monster Cake",
+      "ingredients": "\u30fb Monster Extract \u30fb Tabantha Wheat \u30fb Cane Sugar \u30fb and Goat Butter",
+      "heal": "0.25"
+    },
+    {
+      "no": 140,
+      "dish": "Dark Stew",
+      "ingredients": "\u30fb Dark Clump \u30fb Any Fish \u30fb and Any Meat Gloom Resistance",
+      "heal": "4"
+    },
+    {
+      "no": 141,
+      "dish": "Dark Soup",
+      "ingredients": "\u30fb Dark Clump \u30fb Fresh Milk \u30fb Tabantha Wheat \u30fb and Goat Butter Gloom Resistance",
+      "heal": "3"
+    },
+    {
+      "no": 142,
+      "dish": "Dark Curry",
+      "ingredients": "\u30fb Dark Clump \u30fb Goron Spice \u30fb and Hylian Rice Gloom Resistance",
+      "heal": "2"
+    },
+    {
+      "no": 143,
+      "dish": "Dark Rice Ball",
+      "ingredients": "\u30fb Dark Clump \u30fb Rock Salt \u30fb and Hylian Rice Gloom Resistance",
+      "heal": "2"
+    },
+    {
+      "no": 144,
+      "dish": "Dark Cake",
+      "ingredients": "\u30fb Dark Clump \u30fb Cane Sugar \u30fb Goat Butter \u30fb and Tabantha Wheat Gloom Resistance",
+      "heal": "2"
+    },
+    {
+      "no": 145,
+      "dish": "Dubious Food",
+      "ingredients": "\u30fb Any Monster Part",
+      "heal": "1"
+    },
+    {
+      "no": 146,
+      "dish": "Rock Hard Food",
+      "ingredients": "\u30fb Any Ore / Wood",
+      "heal": "0.25"
+    }
+  ],
+  "elixirs": [
+    {
+      "no": 215,
+      "dish": "Energizing Elixir",
+      "ingredients": "\u30fb Restless Cricket / Energetic Rhino Beetle \u30fb and Any Monster Part",
+      "heal": "0.2"
+    },
+    {
+      "no": 216,
+      "dish": "Hasty Elixir",
+      "ingredients": "\u30fb Hightail Lizard / Hot-Footed Frog \u30fb and Any Monster Part Speed Up",
+      "heal": "-"
+    },
+    {
+      "no": 217,
+      "dish": "Spicy Elixir",
+      "ingredients": "\u30fb Summerwing Butterfly / Warm Darner \u30fb and Any Monster Part Cold Resistance",
+      "heal": "-"
+    },
+    {
+      "no": 225,
+      "dish": "Bright Elixir",
+      "ingredients": "\u30fb Deep Firefly \u30fb and Any Monster Part Glow",
+      "heal": "-"
+    },
+    {
+      "no": 228,
+      "dish": "Fairy Tonic",
+      "ingredients": "\u30fb Fairy",
+      "heal": "7"
+    },
+    {
+      "no": 223,
+      "dish": "Sneaky Elixir",
+      "ingredients": "\u30fb Sunset Firefly \u30fb and Any Monster Part Stealth Up",
+      "heal": "-"
+    },
+    {
+      "no": 227,
+      "dish": "Hearty Elixir",
+      "ingredients": "\u30fb Hearty Lizard \u30fb and Any Monster Part",
+      "heal": "Max +4"
+    },
+    {
+      "no": 218,
+      "dish": "Chilly Elixir",
+      "ingredients": "\u30fb Cold Darner / Winterwing Butterfly \u30fb and Any Monster Part Heat Resistance",
+      "heal": "-"
+    },
+    {
+      "no": 219,
+      "dish": "Electro Elixir",
+      "ingredients": "\u30fb Electric Darner / Thunderwing Butterfly \u30fb and Any Monster Part Shock Resistance",
+      "heal": "-"
+    },
+    {
+      "no": 220,
+      "dish": "Fireproof Elixir",
+      "ingredients": "\u30fb Fireproof Lizard / Smotherwing Butterfly \u30fb and Any Monster Part Flame Guard",
+      "heal": "-"
+    },
+    {
+      "no": 221,
+      "dish": "Mighty Elixir",
+      "ingredients": "\u30fb Bladed Rhino Beetle \u30fb and Any Monster Part Attack Up",
+      "heal": "-"
+    },
+    {
+      "no": 222,
+      "dish": "Tough Elixir",
+      "ingredients": "\u30fb Rugged Rhino Beetle \u30fb and Any Monster Part Defense Up",
+      "heal": "-"
+    },
+    {
+      "no": 224,
+      "dish": "Sticky Elixir",
+      "ingredients": "\u30fb Sticky Lizard / Sticky Frog \u30fb and Any Monster Part Slip Resistance",
+      "heal": "-"
+    },
+    {
+      "no": 226,
+      "dish": "Enduring Elixir",
+      "ingredients": "\u30fb Tireless Frog \u30fb and Any Monster Part Overfills Stamina",
+      "heal": "-"
+    }
+  ],
+  "notes": "Cooked rows deduplicated by recipe number/title after Game8 page repeated its featured early-game rows above the full table."
+}

@@ -1,8 +1,8 @@
 # The Wild Table
-## An Unofficial Real-World Cookbook Inspired by Breath of the Wild
+## An Unofficial Real-World Cookbook Inspired by Breath of the Wild and Tears of the Kingdom
 
 **Draft:** v0.5  
-**Status:** working manuscript / 128 full recipe pages drafted; all cooking pot meals and elixirs adapted  
+**Status:** working manuscript / 160 full recipe pages drafted; Breath of the Wild set plus non-duplicate Tears of the Kingdom additions adapted  
 **Important:** This is an original fan-made cookbook. It should not use Nintendo art, logos, screenshots, or copied flavor text in the final designed book.
 
 ---
@@ -3097,3 +3097,669 @@ The game treats elixirs as critter-and-monster-part brews. For a real cookbook, 
 11. **Icy Meat** — inspired by: Raw Meat
 12. **Icy Prime Meat** — inspired by: Raw Prime Meat
 13. **Icy Gourmet Meat** — inspired by: Raw Gourmet Meat
+
+---
+
+# Chapter VI — Tears of the Kingdom Additions
+
+This chapter adds original real-world adaptations for Tears of the Kingdom recipe names that do not already duplicate a page in the earlier Breath of the Wild recipe set.
+
+**Source note:** Recipe names and ingredient categories were cross-checked against Game8's Tears of the Kingdom cooked-dish and elixir recipe lists. The recipes below are original adaptations, not copied game text.
+
+**Intentionally not repeated:**
+- Honey Candy / Honey Crepe overlap with the existing Energizing Honey Candy and Energizing Honey Crepe pages.
+- Milk overlaps with the existing Warm Milk page.
+- Snail Chowder overlaps with the existing shellfish chowder adaptation.
+- Sauteed Nuts, Herb Saute, Fragrant Mushroom Saute, and the Meuniere spellings overlap existing accent/spelling variants.
+
+### Steamed Tomatoes
+**Inspired by:** Hylian tomato and wild greens  
+**Real-world version:** tomato-basil steamed greens  
+**Serves: 4 | Time: 15 min | Difficulty: Easy**
+
+**Ingredients**
+- 4 ripe tomatoes, halved or wedged
+- 4 cups spinach, chard, or tender greens
+- 1 tbsp olive oil
+- 1 garlic clove, sliced
+- Pinch of salt
+- Basil or parsley
+- Lemon juice
+
+**Method**
+1. Set a skillet over medium heat with oil and garlic.
+2. Add tomatoes cut-side down and cook 2 minutes.
+3. Pile greens on top, sprinkle with salt, cover, and steam 4–5 minutes.
+4. Toss gently, finish with herbs and lemon, and serve warm.
+---
+
+### Cooked Stambulb
+**Inspired by:** Stambulb  
+**Real-world version:** quick blistered spring onions  
+**Serves: 2–3 | Time: 10 min | Difficulty: Easy**
+
+**Ingredients**
+- 1 bunch scallions or small spring onions
+- 1 tsp oil
+- Pinch of salt
+- Lemon wedge
+
+**Method**
+1. Trim scallions, leaving the white and tender green parts attached.
+2. Heat oil in a skillet until shimmering.
+3. Cook scallions until blistered and softened, 3–5 minutes.
+4. Season with salt and lemon.
+---
+
+### Buttered Stambulb
+**Inspired by:** Stambulb and goat butter  
+**Real-world version:** butter-glazed spring onions  
+**Serves: 2–3 | Time: 12 min | Difficulty: Easy**
+
+**Ingredients**
+- 1 bunch scallions or spring onions
+- 1 tbsp butter
+- 1 tsp water
+- Pinch of salt
+- Black pepper
+
+**Method**
+1. Melt butter in a small pan and add scallions.
+2. Add water and cover for 2 minutes to steam.
+3. Uncover and cook until the butter lightly browns and coats the onions.
+4. Season with salt and pepper.
+---
+
+### Fragrant Seafood Stew
+**Inspired by:** seafood, stambulb, and oil jar  
+**Real-world version:** aromatic seafood stew with scallion oil  
+**Serves: 4 | Time: 30 min | Difficulty: Easy**
+
+**Ingredients**
+- 1 lb mixed seafood
+- 1 bunch scallions, chopped
+- 2 tbsp olive oil
+- 2 garlic cloves, sliced
+- 1 tsp grated ginger
+- 3 cups seafood or vegetable stock
+- 1 tomato, chopped
+- Salt and lemon
+
+**Method**
+1. Warm oil with scallions, garlic, and ginger until fragrant.
+2. Add tomato and cook until jammy.
+3. Pour in stock and simmer 10 minutes.
+4. Add seafood and cook just until done.
+5. Season with salt and lemon.
+---
+
+### Deep-Fried Drumstick
+**Inspired by:** raw bird drumstick and oil jar  
+**Real-world version:** crispy shallow-fried chicken drumsticks  
+**Serves: 4 | Time: 45 min plus rest | Difficulty: Medium**
+
+**Ingredients**
+- 8 chicken drumsticks
+- 1 cup buttermilk or yogurt
+- 1 cup flour
+- 1 tsp paprika
+- 1 tsp salt
+- 1/2 tsp pepper
+- Oil for shallow frying
+
+**Method**
+1. Coat drumsticks in buttermilk and rest 20 minutes or overnight.
+2. Mix flour with paprika, salt, and pepper.
+3. Dredge chicken, then fry in 1 inch of oil, turning often, until crisp and 165°F / 74°C inside.
+4. Drain and salt lightly.
+---
+
+### Deep-Fried Thigh
+**Inspired by:** raw bird thigh and oil jar  
+**Real-world version:** crispy boneless chicken thighs  
+**Serves: 4 | Time: 35 min | Difficulty: Medium**
+
+**Ingredients**
+- 1 1/2 lb boneless chicken thighs
+- 1 egg
+- 1/2 cup flour
+- 1/2 cup cornstarch
+- 1 tsp salt
+- 1 tsp garlic powder
+- Oil for frying
+
+**Method**
+1. Cut thighs into large pieces and coat with beaten egg.
+2. Mix flour, cornstarch, salt, and garlic powder.
+3. Dredge chicken and fry until deeply golden and cooked through.
+4. Rest on a rack so the crust stays crisp.
+---
+
+### Deep-Fried Bird Roast
+**Inspired by:** raw whole bird and oil jar  
+**Real-world version:** festival fried roast chicken pieces  
+**Serves: 4–6 | Time: 1 hr | Difficulty: Medium**
+
+**Ingredients**
+- 1 small chicken, cut into pieces
+- 1 cup buttermilk
+- 1 1/2 cups flour
+- 1 tsp salt
+- 1 tsp smoked paprika
+- 1/2 tsp thyme
+- Oil for frying
+
+**Method**
+1. Marinate chicken pieces in buttermilk at least 30 minutes.
+2. Season flour with salt, paprika, and thyme.
+3. Dredge chicken, then fry in batches until crisp and cooked through.
+4. Keep warm on a rack in a low oven while finishing batches.
+---
+
+### Simmered Tomato
+**Inspired by:** Hylian tomato  
+**Real-world version:** simple warm tomato bowl  
+**Serves: 2 | Time: 15 min | Difficulty: Easy**
+
+**Ingredients**
+- 4 ripe tomatoes, chopped
+- 1 tbsp olive oil
+- 1 small garlic clove
+- Pinch of salt
+- Basil or parsley
+
+**Method**
+1. Warm oil and garlic in a small pot.
+2. Add tomatoes and salt.
+3. Simmer 8–10 minutes until saucy but still bright.
+4. Finish with herbs and eat with bread or rice.
+---
+
+### Fruity Tomato Stew
+**Inspired by:** Hylian tomato, milk, and rock salt  
+**Real-world version:** creamy tomato-fruit bisque  
+**Serves: 4 | Time: 25 min | Difficulty: Easy**
+
+**Ingredients**
+- 5 ripe tomatoes
+- 1 peach or small apple, diced
+- 1 tbsp butter
+- 1 cup milk or cream
+- 1 cup vegetable stock
+- Salt and pepper
+- Basil
+
+**Method**
+1. Cook tomatoes and fruit in butter until softened.
+2. Add stock and simmer 10 minutes.
+3. Blend smooth, then stir in milk.
+4. Season with salt, pepper, and basil.
+---
+
+### Tomato Mushroom Stew
+**Inspired by:** Hylian tomato and mushrooms  
+**Real-world version:** tomato-mushroom skillet stew  
+**Serves: 4 | Time: 30 min | Difficulty: Easy**
+
+**Ingredients**
+- 1 lb mushrooms, sliced
+- 4 tomatoes, chopped
+- 1 onion, diced
+- 2 tbsp olive oil
+- 1 tsp thyme
+- Salt and pepper
+
+**Method**
+1. Brown mushrooms in oil until their liquid cooks off.
+2. Add onion and thyme; cook until soft.
+3. Add tomatoes, salt, and pepper.
+4. Simmer until thick and savory.
+---
+
+### Tomato Seafood Soup
+**Inspired by:** seafood and Hylian tomato  
+**Real-world version:** tomato fish soup  
+**Serves: 4 | Time: 30 min | Difficulty: Easy**
+
+**Ingredients**
+- 1 lb white fish or shrimp
+- 4 tomatoes, chopped
+- 2 cups seafood stock
+- 1 garlic clove
+- 1 tbsp olive oil
+- Salt, pepper, lemon
+
+**Method**
+1. Warm oil with garlic, then add tomatoes.
+2. Cook until tomatoes collapse.
+3. Add stock and simmer 10 minutes.
+4. Add seafood and cook gently until done.
+5. Finish with lemon.
+---
+
+### Cheesy Curry
+**Inspired by:** Hateno cheese, rice, and Goron spice  
+**Real-world version:** cheese-topped curry rice  
+**Serves: 4 | Time: 35 min | Difficulty: Easy**
+
+**Ingredients**
+- 2 cups cooked rice
+- 1 onion, sliced
+- 2 carrots, chopped
+- 2 cups stock
+- Japanese curry roux or curry powder slurry
+- 1 cup shredded cheese
+
+**Method**
+1. Cook onion and carrots until softened.
+2. Add stock and simmer until tender.
+3. Stir in curry roux until glossy.
+4. Spoon over rice, top with cheese, and broil or cover until melted.
+---
+
+### Cheesy Risotto
+**Inspired by:** rice, salt, Hateno cheese, and fish/mushrooms/greens  
+**Real-world version:** flexible cheese risotto  
+**Serves: 4 | Time: 40 min | Difficulty: Medium**
+
+**Ingredients**
+- 1 cup arborio rice
+- 4 cups warm stock
+- 1 tbsp butter
+- 1 shallot, minced
+- 1 cup mushrooms, greens, or cooked fish
+- 3/4 cup shredded cheese
+- Salt and pepper
+
+**Method**
+1. Cook shallot in butter, then toast rice for 2 minutes.
+2. Add stock a ladle at a time, stirring until absorbed.
+3. Fold in mushrooms, greens, or fish.
+4. Melt in cheese and season well.
+---
+
+### Crunchy Fried Rice
+**Inspired by:** meat, rice, egg, and oil jar  
+**Real-world version:** crispy egg fried rice  
+**Serves: 2–3 | Time: 20 min | Difficulty: Easy**
+
+**Ingredients**
+- 3 cups cold cooked rice
+- 1/2 lb cooked meat, diced
+- 2 eggs
+- 2 tbsp oil
+- 1 tbsp soy sauce
+- 1 scallion
+- Salt and pepper
+
+**Method**
+1. Heat oil in a wide skillet and press rice into a thin layer.
+2. Let it crisp before stirring.
+3. Add meat and soy sauce.
+4. Push rice aside, scramble eggs, then fold together with scallion.
+---
+
+### Cheesy Meat Bowl
+**Inspired by:** meat, rice, salt, and Hateno cheese  
+**Real-world version:** melty ground meat rice bowl  
+**Serves: 2 | Time: 20 min | Difficulty: Easy**
+
+**Ingredients**
+- 2 cups hot rice
+- 1/2 lb ground beef, pork, turkey, or mushrooms
+- 1 tsp soy sauce
+- 1/2 cup shredded cheese
+- Salt and pepper
+- Scallion
+
+**Method**
+1. Brown meat with salt and pepper.
+2. Add soy sauce and cook until glossy.
+3. Spoon over hot rice.
+4. Top with cheese, cover for 1 minute to melt, and finish with scallion.
+---
+
+### Prime Cheesy Meat Bowl
+**Inspired by:** prime meat, rice, salt, and Hateno cheese  
+**Real-world version:** sirloin cheese rice bowl  
+**Serves: 2 | Time: 25 min | Difficulty: Easy**
+
+**Ingredients**
+- 10 oz sirloin or pork loin
+- 2 cups hot rice
+- 1 tbsp oil
+- 1 tbsp butter
+- 1/2 cup shredded cheese
+- Salt and pepper
+
+**Method**
+1. Season and sear meat in oil.
+2. Rest, slice, and melt butter in the pan.
+3. Serve over rice with pan butter and cheese.
+4. Cover briefly so the cheese softens.
+---
+
+### Gourmet Cheesy Meat Bowl
+**Inspired by:** gourmet meat, rice, salt, and Hateno cheese  
+**Real-world version:** steakhouse cheese rice bowl  
+**Serves: 2 | Time: 30 min | Difficulty: Medium**
+
+**Ingredients**
+- 12 oz steak
+- 2 cups hot rice
+- 1 tbsp oil
+- 1 tbsp butter
+- 3/4 cup sharp cheese
+- Salt, pepper, and chives
+
+**Method**
+1. Sear steak to your liking and rest.
+2. Slice over rice.
+3. Add butter to the hot pan and spoon over the bowl.
+4. Top with cheese and chives.
+---
+
+### Veggie Porridge
+**Inspired by:** milk, rice, and wild greens  
+**Real-world version:** gentle green rice porridge  
+**Serves: 4 | Time: 35 min | Difficulty: Easy**
+
+**Ingredients**
+- 1 cup rice
+- 4 cups vegetable stock
+- 1 cup milk
+- 2 cups chopped greens
+- 1 tbsp butter
+- Salt and pepper
+
+**Method**
+1. Simmer rice in stock until very soft, 25–30 minutes.
+2. Stir in milk, greens, and butter.
+3. Cook until creamy and green-flecked.
+4. Season with salt and pepper.
+---
+
+### Melty Cheesy Bread
+**Inspired by:** Hateno cheese and Tabantha wheat  
+**Real-world version:** toasted cheese flatbread  
+**Serves: 2–4 | Time: 15 min | Difficulty: Easy**
+
+**Ingredients**
+- 1 flatbread or small loaf split open
+- 1 cup shredded cheese
+- 1 tbsp butter
+- Pinch garlic powder
+- Parsley
+
+**Method**
+1. Butter the bread and sprinkle with garlic powder.
+2. Pile on cheese.
+3. Bake at 425°F / 220°C until melted and browned.
+4. Finish with parsley and cut into wedges.
+---
+
+### Hylian Tomato Pizza
+**Inspired by:** Hateno cheese, Hylian tomato, and wheat  
+**Real-world version:** tomato cheese skillet pizza  
+**Makes: 1 small pizza | Time: 35 min | Difficulty: Easy**
+
+**Ingredients**
+- 1 pizza dough or flatbread
+- 2 tomatoes, sliced
+- 1 cup shredded mozzarella or farmer cheese
+- 1 tbsp olive oil
+- Salt
+- Basil
+
+**Method**
+1. Heat oven to 475°F / 245°C.
+2. Stretch dough and brush with oil.
+3. Top with tomatoes, cheese, and salt.
+4. Bake until the crust is browned and cheese bubbles.
+5. Finish with basil.
+---
+
+### Cheesy Tomato
+**Inspired by:** Hateno cheese and Hylian tomato  
+**Real-world version:** broiled cheese tomatoes  
+**Serves: 2–3 | Time: 12 min | Difficulty: Easy**
+
+**Ingredients**
+- 3 tomatoes, halved
+- 3/4 cup shredded cheese
+- 1 tsp olive oil
+- Pinch of salt
+- Black pepper
+- Basil or oregano
+
+**Method**
+1. Place tomatoes cut-side up on a tray.
+2. Season with oil, salt, pepper, and herbs.
+3. Cover with cheese.
+4. Broil until bubbling and browned at the edges.
+---
+
+### Cheesy Baked Fish
+**Inspired by:** Hateno cheese and fish  
+**Real-world version:** baked fish with cheese crust  
+**Serves: 4 | Time: 25 min | Difficulty: Easy**
+
+**Ingredients**
+- 4 white fish fillets
+- 1/2 cup shredded cheese
+- 1/4 cup breadcrumbs
+- 1 tbsp butter, melted
+- Salt and pepper
+- Lemon wedges
+
+**Method**
+1. Heat oven to 400°F / 200°C.
+2. Season fish and place in a baking dish.
+3. Mix cheese, crumbs, and butter; press over fish.
+4. Bake 12–15 minutes until fish flakes and topping browns.
+---
+
+### Cheesy Omelet
+**Inspired by:** egg, cheese, butter, salt, and vegetables  
+**Real-world version:** soft cheese-and-greens omelet  
+**Serves: 1–2 | Time: 12 min | Difficulty: Easy**
+
+**Ingredients**
+- 3 eggs
+- 1 tbsp butter
+- 1/2 cup shredded cheese
+- 1/2 cup sautéed mushrooms or greens
+- Salt and pepper
+
+**Method**
+1. Beat eggs with salt and pepper.
+2. Melt butter in a nonstick pan.
+3. Add eggs and stir gently until soft curds form.
+4. Add cheese and vegetables, fold, and serve while melty.
+---
+
+### Cheesecake
+**Inspired by:** Hateno cheese, wheat, sugar, and goat butter  
+**Real-world version:** small farmer-cheese cheesecake  
+**Makes: 8 slices | Time: 1 hr plus chilling | Difficulty: Medium**
+
+**Ingredients**
+- 1 cup graham crumbs or crushed biscuits
+- 3 tbsp melted butter
+- 12 oz cream cheese or farmer cheese
+- 1/2 cup sugar
+- 2 eggs
+- 1 tsp vanilla
+- Pinch salt
+
+**Method**
+1. Heat oven to 325°F / 160°C.
+2. Mix crumbs with butter and press into a small pan.
+3. Beat cheese, sugar, eggs, vanilla, and salt until smooth.
+4. Bake 35–40 minutes until barely set.
+5. Chill before slicing.
+---
+
+### Noble Pursuit
+**Inspired by:** palm fruit, hydromelon, voltfruit, and rock salt  
+**Real-world version:** citrus-melon mocktail with a salted rim  
+**Makes: 2 drinks | Time: 10 min | Difficulty: Easy**
+
+**Ingredients**
+- 1 cup watermelon or cantaloupe
+- 1/2 cup pineapple or mango
+- 1/2 cup coconut water
+- Juice of 1 lime
+- Sparkling water
+- Pinch of salt
+- Ice
+
+**Method**
+1. Blend melon, pineapple, coconut water, lime, and salt.
+2. Strain if desired.
+3. Pour over ice and top with sparkling water.
+4. Serve with a lightly salted rim.
+---
+
+### Dark Stew
+**Inspired by:** dark clump, fish, and meat  
+**Real-world version:** black garlic surf-and-turf stew  
+**Serves: 4 | Time: 1 hr | Difficulty: Medium**
+
+**Ingredients**
+- 3/4 lb beef or sausage
+- 3/4 lb white fish or shrimp
+- 1 onion, diced
+- 2 cups stock
+- 1 cup crushed tomatoes
+- 1 tsp black garlic paste or balsamic glaze
+- Salt and pepper
+
+**Method**
+1. Brown meat with onion.
+2. Add stock, tomatoes, black garlic, salt, and pepper.
+3. Simmer 35 minutes.
+4. Add seafood and cook just until done.
+---
+
+### Dark Soup
+**Inspired by:** dark clump, milk, wheat, and goat butter  
+**Real-world version:** shadowy creamy mushroom soup  
+**Serves: 4 | Time: 35 min | Difficulty: Easy**
+
+**Ingredients**
+- 1 lb mushrooms
+- 2 tbsp butter
+- 2 tbsp flour
+- 3 cups stock
+- 1 cup milk
+- 1 tsp black garlic or balsamic glaze
+- Salt and pepper
+
+**Method**
+1. Brown mushrooms deeply in butter.
+2. Stir in flour, then stock.
+3. Simmer 15 minutes.
+4. Add milk and black garlic.
+5. Blend partly and season.
+---
+
+### Dark Curry
+**Inspired by:** dark clump, Goron spice, and rice  
+**Real-world version:** black garlic curry rice  
+**Serves: 4 | Time: 40 min | Difficulty: Easy**
+
+**Ingredients**
+- 2 cups cooked rice
+- 1 onion, sliced
+- 2 carrots, chopped
+- 2 cups stock
+- Japanese curry roux
+- 1 tsp black garlic paste or molasses
+- Oil
+
+**Method**
+1. Cook onion in oil until deeply golden.
+2. Add carrots and stock; simmer until tender.
+3. Stir in curry roux and black garlic.
+4. Serve over rice.
+---
+
+### Dark Rice Ball
+**Inspired by:** dark clump, salt, and rice  
+**Real-world version:** black sesame rice balls  
+**Makes: 6 | Time: 25 min | Difficulty: Easy**
+
+**Ingredients**
+- 3 cups cooked short-grain rice
+- 2 tbsp black sesame paste or crushed black sesame
+- 1 tsp soy sauce
+- Pinch of salt
+- Optional nori
+
+**Method**
+1. Mix hot rice with sesame paste, soy sauce, and salt until streaked dark.
+2. Wet your hands and shape into balls or triangles.
+3. Wrap with nori if desired.
+---
+
+### Dark Cake
+**Inspired by:** dark clump, sugar, butter, and wheat  
+**Real-world version:** black cocoa snack cake  
+**Makes: 8 slices | Time: 55 min | Difficulty: Easy**
+
+**Ingredients**
+- 1 cup flour
+- 1/2 cup black cocoa
+- 3/4 cup sugar
+- 1 tsp baking powder
+- 1/2 tsp salt
+- 1 egg
+- 1/2 cup milk
+- 1/4 cup melted butter
+
+**Method**
+1. Heat oven to 350°F / 175°C and grease an 8-inch pan.
+2. Whisk dry ingredients.
+3. Add egg, milk, and butter; mix until smooth.
+4. Bake 28–34 minutes and cool before slicing.
+---
+
+### Bright Elixir
+**Inspired by:** deep firefly and monster part  
+**Real-world version:** glowing lemon-ginger tonic  
+**Makes: 2 drinks | Time: 10 min | Difficulty: Easy**
+
+**Ingredients**
+- 2 cups sparkling water
+- Juice of 1 lemon
+- 1 tbsp honey
+- 1/2 tsp grated ginger
+- Pinch turmeric
+- Ice
+
+**Method**
+1. Stir lemon, honey, ginger, and turmeric until dissolved.
+2. Pour over ice.
+3. Top with sparkling water and stir gently.
+4. Serve when you need a little cave-light courage.
+---
+
+### Sticky Elixir
+**Inspired by:** sticky lizard or frog and monster part  
+**Real-world version:** lime-chia grip tonic  
+**Makes: 2 drinks | Time: 10 min plus resting | Difficulty: Easy**
+
+**Ingredients**
+- 2 cups coconut water or cold green tea
+- Juice of 2 limes
+- 1 tbsp honey
+- 1 tbsp chia seeds
+- Pinch of salt
+- Ice
+
+**Method**
+1. Stir coconut water, lime, honey, salt, and chia.
+2. Rest 10 minutes so the chia lightly gels.
+3. Pour over ice and stir before drinking.
+---

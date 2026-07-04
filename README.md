@@ -2,20 +2,21 @@
 
 Working title: **The Wild Table**
 
-This folder contains the first concrete book artifact for an unofficial, original, real-world cookbook inspired by Breath of the Wild cooking.
+This folder contains the first concrete book artifact for an unofficial, original, real-world cookbook inspired by Breath of the Wild and Tears of the Kingdom cooking.
 
 ## Files
 - `data/botw_food_source_extract.json` — structured recipe catalog extracted from public wiki data for planning.
 - `data/botw_food_source_extract.csv` — spreadsheet-friendly catalog.
-- `manuscript/The_Wild_Table_v0.5.md` — expanded literal book manuscript with all cooking pot meals and all elixirs adapted into full recipe pages.
+- `data/totk_game8_recipes.json` — scraped planning reference for Tears of the Kingdom cooked dishes and elixirs from Game8, used for duplicate screening.
+- `manuscript/The_Wild_Table_v0.5.md` — expanded literal book manuscript with the Breath of the Wild set plus non-duplicate Tears of the Kingdom additions adapted into full recipe pages.
 - `manuscript/The_Wild_Table_v0.4.md` — previous draft kept for history.
 - `manuscript/The_Wild_Table_v0.3.md` — previous draft kept for history.
 - `manuscript/The_Wild_Table_v0.2.md` — previous draft kept for history.
 - `manuscript/The_Wild_Table_v0.1.md` — previous draft kept for history.
 
 ## Current status
-- Catalogued 116 cooking pot meals, 12 elixirs, 46 roasted foods, and 13 frozen foods.
-- Drafted 128 full real-life recipe pages; all 116 cooking pot meals and all 12 elixirs are now adapted.
+- Catalogued the original 116 cooking pot meals, 12 elixirs, 46 roasted foods, and 13 frozen foods, then cross-checked Tears of the Kingdom additions.
+- Drafted 160 full real-life recipe pages, including 32 non-duplicate Tears of the Kingdom additions.
 - Next step: format/export the manuscript into a literal book file, then optionally design a cover and interior layout.
 
 ## Rights note

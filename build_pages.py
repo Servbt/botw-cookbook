@@ -4,7 +4,7 @@ import re, html, shutil
 root = Path('/home/arian/botw-cookbook')
 oebps = root / 'book/epub_build/OEBPS'
 docs = root / 'docs'
-chapters = [oebps / f'chapter{i:02d}.xhtml' for i in range(1, 11)]
+chapters = [oebps / f'chapter{i:02d}.xhtml' for i in range(1, 12)]
 assert all(p.exists() for p in chapters), 'Missing chapter files'
 
 docs.mkdir(exist_ok=True)
@@ -125,7 +125,7 @@ def page(title: str, body: str, current_idx=None, depth='') -> str:
   <div class="layout">
     <aside class="sidebar">
       <h1>The Wild Table</h1>
-      <p class="subtitle">An unofficial real-world cookbook inspired by Breath of the Wild</p>
+      <p class="subtitle">An unofficial real-world cookbook inspired by Breath of the Wild and Tears of the Kingdom</p>
       <nav aria-label="Book navigation">
         {nav}
       </nav>

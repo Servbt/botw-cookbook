@@ -6,7 +6,7 @@
     <dc:creator>Arian Rezvani with Hermes Agent</dc:creator>
     <dc:language>en</dc:language>
     <dc:description>An unofficial real-world cookbook inspired by Breath of the Wild-style fantasy cooking, with original recipes for all cooking-pot meals and elixirs.</dc:description>
-    <meta property="dcterms:modified">2026-06-30T21:29:51Z</meta>
+    <meta property="dcterms:modified">2026-07-04T06:14:23Z</meta>
   </metadata>
   <manifest>
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -21,6 +21,7 @@
 <item id="chap8" href="chapter08.xhtml" media-type="application/xhtml+xml"/>
 <item id="chap9" href="chapter09.xhtml" media-type="application/xhtml+xml"/>
 <item id="chap10" href="chapter10.xhtml" media-type="application/xhtml+xml"/>
+<item id="chap11" href="chapter11.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <itemref idref="chap1"/>
@@ -33,5 +34,6 @@
 <itemref idref="chap8"/>
 <itemref idref="chap9"/>
 <itemref idref="chap10"/>
+<itemref idref="chap11"/>
   </spine>
 </package>
