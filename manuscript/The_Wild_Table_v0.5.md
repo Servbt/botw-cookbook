@@ -1,8 +1,8 @@
 # The Wild Table
-## An Unofficial Real-World Cookbook Inspired by Breath of the Wild and Tears of the Kingdom
+## An Unofficial Real-World Cookbook Inspired by Breath of the Wild, Tears of the Kingdom, and Skyrim
 
 **Draft:** v0.5  
-**Status:** working manuscript / 160 full recipe pages drafted; Breath of the Wild set plus non-duplicate Tears of the Kingdom additions adapted  
+**Status:** working manuscript / 211 full recipe pages drafted; Zelda-inspired set plus Skyrim cooking additions adapted
 **Important:** This is an original fan-made cookbook. It should not use Nintendo art, logos, screenshots, or copied flavor text in the final designed book.
 
 ---
@@ -3762,4 +3762,913 @@ This chapter adds original real-world adaptations for Tears of the Kingdom recip
 1. Stir coconut water, lime, honey, salt, and chia.
 2. Rest 10 minutes so the chia lightly gels.
 3. Pour over ice and stir before drinking.
+---
+
+---
+
+# Chapter VII — Skyrim Cooking Recipes
+
+This chapter adds original real-world adaptations for Skyrim's player-cooked food list. Recipe names and ingredient categories were cross-checked from UESP's Skyrim:Food page via the MediaWiki API.
+
+**Variant note:** Survival Mode hot soups are not repeated as full pages; they are the same base soups with Fire Salts added for warmth.
+
+### Apple Cabbage Stew
+**Inspired by:** Salt Pile, Red Apple, Cabbage  
+**Real-world version:** Nord-style hearth stew  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Red apple
+- Cabbage
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Beef Stew
+**Inspired by:** Raw Beef, Carrot, Salt Pile, Garlic  
+**Real-world version:** Nord-style hearth stew  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Raw beef
+- Carrot
+- Kosher salt
+- Garlic
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Cabbage Potato Soup
+**Inspired by:** Potato, Salt Pile, Leek, Cabbage  
+**Real-world version:** simple tavern soup  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Potato
+- Kosher salt
+- Leek
+- Cabbage
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Clam Chowder
+**Inspired by:** Clam Meat, Potato, Jug of Milk, Butter  
+**Real-world version:** hearty crab or clam chowder  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Clam meat
+- Potato
+- Whole milk
+- Butter
+- Kosher salt
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Cooked Angelfish
+**Inspired by:** Salt Pile, Angelfish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Angelfish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Angler
+**Inspired by:** Salt Pile, Angler  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Angler
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Angler Larvae
+**Inspired by:** Salt Pile, Angler Larvae  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Angler larvae
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Arctic Char
+**Inspired by:** Salt Pile, Arctic Char  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Arctic char
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Arctic Grayling
+**Inspired by:** Salt Pile, Arctic Grayling  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Arctic grayling
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Beef
+**Inspired by:** Salt Pile, Raw Beef  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Raw beef
+- Butter or oil
+
+**Method**
+1. Pat the main ingredient dry and season with salt.
+2. Heat butter or oil in a skillet until shimmering.
+3. Cook until browned on the outside and done in the center.
+4. Rest briefly, then serve with the pan juices.
+---
+
+### Cooked Boar Meat
+**Inspired by:** | Salt Pile, Boar Meat  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- | salt pile
+- Pork shoulder or wild boar
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Brook Bass
+**Inspired by:** Salt Pile, Brook Bass  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Brook bass
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Carp
+**Inspired by:** Salt Pile, Carp  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Carp
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Catfish
+**Inspired by:** Salt Pile, Catfish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Catfish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Cod
+**Inspired by:** Salt Pile, Cod  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Cod
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Direfish
+**Inspired by:** Salt Pile, Direfish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Direfish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Glass Catfish
+**Inspired by:** Salt Pile, Glass Catfish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Glass catfish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Glassfish
+**Inspired by:** Salt Pile, Glassfish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Glassfish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Goldfish
+**Inspired by:** Salt Pile, Goldfish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Goldfish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Juvenile Mudcrab
+**Inspired by:** Salt Pile, Juvenile Mudcrab  
+**Real-world version:** buttered crab legs  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Juvenile mudcrab
+- Butter or oil
+
+**Method**
+1. Pat the main ingredient dry and season with salt.
+2. Heat butter or oil in a skillet until shimmering.
+3. Cook until browned on the outside and done in the center.
+4. Rest briefly, then serve with the pan juices.
+---
+
+### Cooked Lyretail Anthias
+**Inspired by:** Salt Pile, Lyretail Anthias  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Lyretail anthias
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Nix-Hound Meat
+**Inspired by:** Salt Pile, Nix-Hound Meat  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Sausage, pork, or mushroom pieces
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Pearlfish
+**Inspired by:** Salt Pile, Pearlfish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Pearlfish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Pogfish
+**Inspired by:** Salt Pile, Pogfish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Pogfish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Pygmy Sunfish
+**Inspired by:** Salt Pile, Pygmy Sunfish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Pygmy sunfish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Scorpion Fish
+**Inspired by:** Salt Pile, Scorpion Fish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Scorpion fish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Spadefish
+**Inspired by:** Salt Pile, Spadefish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Spadefish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Tripod Spiderfish
+**Inspired by:** Salt Pile, Tripod Spiderfish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Tripod spiderfish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Cooked Vampire Fish
+**Inspired by:** Salt Pile, Vampire Fish  
+**Real-world version:** salt-pan cooked fish or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Vampire fish
+- Butter or oil
+
+**Method**
+1. Pat the fish or meat dry and season with salt.
+2. Heat a skillet with a small amount of butter or oil.
+3. Cook until opaque, browned, or cooked through depending on the ingredient.
+4. Serve simply, tavern-style, with bread or potatoes.
+---
+
+### Crab Stew
+**Inspired by:** Garlic, Potato, Leek, Crab Meat  
+**Real-world version:** Nord-style hearth stew  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Garlic
+- Potato
+- Leek
+- Crab meat
+- Kosher salt
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Creamy Crab Bisque
+**Inspired by:** Salt Pile, Sack of Flour, Butter, Crab Meat  
+**Real-world version:** creamy crab bisque  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- All-purpose flour
+- Butter
+- Crab meat
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Elsweyr Fondue
+**Inspired by:** Eidar Cheese Wheel, Moon Sugar, Ale  
+**Real-world version:** ale-cheese fondue  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Aged cheddar, gouda, or gruyère
+- Brown sugar or honey
+- Amber ale, beer, or nonalcoholic malt drink
+- Kosher salt
+
+**Method**
+1. Warm the ale gently in a small pot.
+2. Add cheese by handfuls, stirring until smooth.
+3. Sweeten lightly with brown sugar or honey if using.
+4. Serve hot with bread, apples, or roasted vegetables for dipping.
+---
+
+### Grilled Chicken Breast
+**Inspired by:** Salt Pile, Chicken Breast  
+**Real-world version:** grilled chicken breast  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Chicken breast
+- Butter or oil
+
+**Method**
+1. Pat the main ingredient dry and season with salt.
+2. Heat butter or oil in a skillet until shimmering.
+3. Cook until browned on the outside and done in the center.
+4. Rest briefly, then serve with the pan juices.
+---
+
+### Horker and Ash Yam Stew
+**Inspired by:** Ash Yam, Horker Meat, Garlic  
+**Real-world version:** Nord-style hearth stew  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Sweet potato or yam
+- Pork shoulder, bacon, or smoked ham
+- Garlic
+- Kosher salt
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Horker Loaf
+**Inspired by:** Salt Pile, Horker Meat  
+**Real-world version:** savory meatloaf  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Pork shoulder, bacon, or smoked ham
+- Butter or oil
+
+**Method**
+1. Heat oven to 375°F / 190°C.
+2. Chop the meat finely and mix with salt plus a spoonful of butter or stock.
+3. Shape into a small loaf on a lined tray.
+4. Bake until browned and cooked through, then rest before slicing.
+---
+
+### Horker Stew
+**Inspired by:** Lavender, Tomato, Garlic, Horker Meat  
+**Real-world version:** Nord-style hearth stew  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Lavender
+- Tomato
+- Garlic
+- Pork shoulder, bacon, or smoked ham
+- Kosher salt
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Horse Haunch
+**Inspired by:** Salt Pile, Horse Meat  
+**Real-world version:** seared game cut  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Lean beef or venison
+- Butter or oil
+
+**Method**
+1. Pat the main ingredient dry and season with salt.
+2. Heat butter or oil in a skillet until shimmering.
+3. Cook until browned on the outside and done in the center.
+4. Rest briefly, then serve with the pan juices.
+---
+
+### Ironwood Soup
+**Inspired by:** Charred Skeever Hide, Salt Pile, Ironwood Fruit  
+**Real-world version:** simple tavern soup  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Charred mushroom, toasted nori, or smoked jerky
+- Kosher salt
+- Apple, pear, or quince
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Leg of Goat Roast
+**Inspired by:** Salt Pile, Leg of Goat  
+**Real-world version:** salt-roasted game bird or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Goat, lamb, or bone-in pork
+- Butter or oil
+
+**Method**
+1. Pat the main ingredient dry and season with salt.
+2. Heat butter or oil in a skillet until shimmering.
+3. Cook until browned on the outside and done in the center.
+4. Rest briefly, then serve with the pan juices.
+---
+
+### Mammoth Steak
+**Inspired by:** Salt Pile, Mammoth Snout  
+**Real-world version:** pan-seared steak  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Beef short rib, oxtail, or brisket
+- Butter or oil
+
+**Method**
+1. Pat the main ingredient dry and season with salt.
+2. Heat butter or oil in a skillet until shimmering.
+3. Cook until browned on the outside and done in the center.
+4. Rest briefly, then serve with the pan juices.
+---
+
+### Pheasant Roast
+**Inspired by:** Pheasant Breast, Salt Pile  
+**Real-world version:** salt-roasted game bird or meat  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Pheasant, chicken breast, or turkey cutlet
+- Kosher salt
+- Butter or oil
+
+**Method**
+1. Pat the main ingredient dry and season with salt.
+2. Heat butter or oil in a skillet until shimmering.
+3. Cook until browned on the outside and done in the center.
+4. Rest briefly, then serve with the pan juices.
+---
+
+### Potato Crab Chowder
+**Inspired by:** Potato, Jug of Milk, Butter, Crab Meat  
+**Real-world version:** hearty crab or clam chowder  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Potato
+- Whole milk
+- Butter
+- Crab meat
+- Kosher salt
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Potato Soup
+**Inspired by:** Potato, Salt Pile  
+**Real-world version:** simple tavern soup  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Potato
+- Kosher salt
+- Butter or oil
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Rabbit Haunch
+**Inspired by:** Salt Pile, Raw Rabbit Leg  
+**Real-world version:** seared game cut  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Raw rabbit leg
+- Butter or oil
+
+**Method**
+1. Pat the main ingredient dry and season with salt.
+2. Heat butter or oil in a skillet until shimmering.
+3. Cook until browned on the outside and done in the center.
+4. Rest briefly, then serve with the pan juices.
+---
+
+### Roasted Tomato Crab Bisque
+**Inspired by:** Salt Pile, Tomato, Butter, Crab Meat  
+**Real-world version:** creamy crab bisque  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Tomato
+- Butter
+- Crab meat
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Salmon Steak
+**Inspired by:** Salt Pile, Salmon Meat or Salmon  
+**Real-world version:** pan-seared steak  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Salmon meat or salmon
+- Butter or oil
+
+**Method**
+1. Pat the main ingredient dry and season with salt.
+2. Heat butter or oil in a skillet until shimmering.
+3. Cook until browned on the outside and done in the center.
+4. Rest briefly, then serve with the pan juices.
+---
+
+### Steamed Mudcrab Legs
+**Inspired by:** Mudcrab Legs, Butter  
+**Real-world version:** buttered crab legs  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Crab legs
+- Butter
+- Butter or oil
+- Kosher salt
+
+**Method**
+1. Pat the main ingredient dry and season with salt.
+2. Heat butter or oil in a skillet until shimmering.
+3. Cook until browned on the outside and done in the center.
+4. Rest briefly, then serve with the pan juices.
+---
+
+### Tomato Soup
+**Inspired by:** Tomato, Salt Pile, Garlic, Leek  
+**Real-world version:** simple tavern soup  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Tomato
+- Kosher salt
+- Garlic
+- Leek
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Vegetable Soup
+**Inspired by:** Cabbage, Potato, Leek, Tomato  
+**Real-world version:** simple tavern soup  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Cabbage
+- Potato
+- Leek
+- Tomato
+- Kosher salt
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
+---
+
+### Venison Chop
+**Inspired by:** Salt Pile, Venison  
+**Real-world version:** seared game cut  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Kosher salt
+- Venison, beef, or lamb
+- Butter or oil
+
+**Method**
+1. Pat the main ingredient dry and season with salt.
+2. Heat butter or oil in a skillet until shimmering.
+3. Cook until browned on the outside and done in the center.
+4. Rest briefly, then serve with the pan juices.
+---
+
+### Venison Stew
+**Inspired by:** Venison, Salt Pile, Potato, Leek  
+**Real-world version:** Nord-style hearth stew  
+**Serves:** 2–4 | **Time:** 20–60 min | **Difficulty:** Easy
+
+**Ingredients**
+- Venison, beef, or lamb
+- Kosher salt
+- Potato
+- Leek
+
+**Method**
+1. Warm a little butter or oil in a heavy pot.
+2. Add the sturdy vegetables or aromatics and cook until fragrant.
+3. Add the meat, fish, crab, or main ingredient with enough stock or water to cover.
+4. Simmer until tender, then season to taste.
+5. For creamy soups, stir in milk or butter at the end and keep the heat gentle.
 ---

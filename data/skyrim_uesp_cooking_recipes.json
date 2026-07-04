@@ -1,0 +1,408 @@
+{
+  "source": "UESP Skyrim:Food MediaWiki API",
+  "source_url": "https://en.uesp.net/w/api.php?action=parse&page=Skyrim:Food&prop=wikitext&format=json",
+  "recipes": [
+    {
+      "title": "Apple Cabbage Stew",
+      "ingredients": [
+        "Salt Pile",
+        "Red Apple",
+        "Cabbage"
+      ]
+    },
+    {
+      "title": "Beef Stew",
+      "ingredients": [
+        "Raw Beef",
+        "Carrot",
+        "Salt Pile",
+        "Garlic"
+      ]
+    },
+    {
+      "title": "Cabbage Potato Soup",
+      "ingredients": [
+        "Potato",
+        "Salt Pile",
+        "Leek",
+        "Cabbage"
+      ]
+    },
+    {
+      "title": "Clam Chowder",
+      "ingredients": [
+        "Clam Meat",
+        "Potato",
+        "Jug of Milk",
+        "Butter"
+      ]
+    },
+    {
+      "title": "Cooked Angelfish",
+      "ingredients": [
+        "Salt Pile",
+        "Angelfish"
+      ]
+    },
+    {
+      "title": "Cooked Angler",
+      "ingredients": [
+        "Salt Pile",
+        "Angler"
+      ]
+    },
+    {
+      "title": "Cooked Angler Larvae",
+      "ingredients": [
+        "Salt Pile",
+        "Angler Larvae"
+      ]
+    },
+    {
+      "title": "Cooked Arctic Char",
+      "ingredients": [
+        "Salt Pile",
+        "Arctic Char"
+      ]
+    },
+    {
+      "title": "Cooked Arctic Grayling",
+      "ingredients": [
+        "Salt Pile",
+        "Arctic Grayling"
+      ]
+    },
+    {
+      "title": "Cooked Beef",
+      "ingredients": [
+        "Salt Pile",
+        "Raw Beef"
+      ]
+    },
+    {
+      "title": "Cooked Boar Meat",
+      "ingredients": [
+        "| Salt Pile",
+        "Boar Meat"
+      ]
+    },
+    {
+      "title": "Cooked Brook Bass",
+      "ingredients": [
+        "Salt Pile",
+        "Brook Bass"
+      ]
+    },
+    {
+      "title": "Cooked Carp",
+      "ingredients": [
+        "Salt Pile",
+        "Carp"
+      ]
+    },
+    {
+      "title": "Cooked Catfish",
+      "ingredients": [
+        "Salt Pile",
+        "Catfish"
+      ]
+    },
+    {
+      "title": "Cooked Cod",
+      "ingredients": [
+        "Salt Pile",
+        "Cod"
+      ]
+    },
+    {
+      "title": "Cooked Direfish",
+      "ingredients": [
+        "Salt Pile",
+        "Direfish"
+      ]
+    },
+    {
+      "title": "Cooked Glass Catfish",
+      "ingredients": [
+        "Salt Pile",
+        "Glass Catfish"
+      ]
+    },
+    {
+      "title": "Cooked Glassfish",
+      "ingredients": [
+        "Salt Pile",
+        "Glassfish"
+      ]
+    },
+    {
+      "title": "Cooked Goldfish",
+      "ingredients": [
+        "Salt Pile",
+        "Goldfish"
+      ]
+    },
+    {
+      "title": "Cooked Juvenile Mudcrab",
+      "ingredients": [
+        "Salt Pile",
+        "Juvenile Mudcrab"
+      ]
+    },
+    {
+      "title": "Cooked Lyretail Anthias",
+      "ingredients": [
+        "Salt Pile",
+        "Lyretail Anthias"
+      ]
+    },
+    {
+      "title": "Cooked Nix-Hound Meat",
+      "ingredients": [
+        "Salt Pile",
+        "Nix-Hound Meat"
+      ]
+    },
+    {
+      "title": "Cooked Pearlfish",
+      "ingredients": [
+        "Salt Pile",
+        "Pearlfish"
+      ]
+    },
+    {
+      "title": "Cooked Pogfish",
+      "ingredients": [
+        "Salt Pile",
+        "Pogfish"
+      ]
+    },
+    {
+      "title": "Cooked Pygmy Sunfish",
+      "ingredients": [
+        "Salt Pile",
+        "Pygmy Sunfish"
+      ]
+    },
+    {
+      "title": "Cooked Scorpion Fish",
+      "ingredients": [
+        "Salt Pile",
+        "Scorpion Fish"
+      ]
+    },
+    {
+      "title": "Cooked Spadefish",
+      "ingredients": [
+        "Salt Pile",
+        "Spadefish"
+      ]
+    },
+    {
+      "title": "Cooked Tripod Spiderfish",
+      "ingredients": [
+        "Salt Pile",
+        "Tripod Spiderfish"
+      ]
+    },
+    {
+      "title": "Cooked Vampire Fish",
+      "ingredients": [
+        "Salt Pile",
+        "Vampire Fish"
+      ]
+    },
+    {
+      "title": "Crab Stew",
+      "ingredients": [
+        "Garlic",
+        "Potato",
+        "Leek",
+        "Crab Meat"
+      ]
+    },
+    {
+      "title": "Creamy Crab Bisque",
+      "ingredients": [
+        "Salt Pile",
+        "Sack of Flour",
+        "Butter",
+        "Crab Meat"
+      ]
+    },
+    {
+      "title": "Elsweyr Fondue",
+      "ingredients": [
+        "Eidar Cheese Wheel",
+        "Moon Sugar",
+        "Ale"
+      ]
+    },
+    {
+      "title": "Grilled Chicken Breast",
+      "ingredients": [
+        "Salt Pile",
+        "Chicken Breast"
+      ]
+    },
+    {
+      "title": "Horker and Ash Yam Stew",
+      "ingredients": [
+        "Ash Yam",
+        "Horker Meat",
+        "Garlic"
+      ]
+    },
+    {
+      "title": "Horker Loaf",
+      "ingredients": [
+        "Salt Pile",
+        "Horker Meat"
+      ]
+    },
+    {
+      "title": "Horker Stew",
+      "ingredients": [
+        "Lavender",
+        "Tomato",
+        "Garlic",
+        "Horker Meat"
+      ]
+    },
+    {
+      "title": "Horse Haunch",
+      "ingredients": [
+        "Salt Pile",
+        "Horse Meat"
+      ]
+    },
+    {
+      "title": "Ironwood Soup",
+      "ingredients": [
+        "Charred Skeever Hide",
+        "Salt Pile",
+        "Ironwood Fruit"
+      ]
+    },
+    {
+      "title": "Leg of Goat Roast",
+      "ingredients": [
+        "Salt Pile",
+        "Leg of Goat"
+      ]
+    },
+    {
+      "title": "Mammoth Steak",
+      "ingredients": [
+        "Salt Pile",
+        "Mammoth Snout"
+      ]
+    },
+    {
+      "title": "Pheasant Roast",
+      "ingredients": [
+        "Pheasant Breast",
+        "Salt Pile"
+      ]
+    },
+    {
+      "title": "Potato Crab Chowder",
+      "ingredients": [
+        "Potato",
+        "Jug of Milk",
+        "Butter",
+        "Crab Meat"
+      ]
+    },
+    {
+      "title": "Potato Soup",
+      "ingredients": [
+        "Potato",
+        "Salt Pile"
+      ]
+    },
+    {
+      "title": "Rabbit Haunch",
+      "ingredients": [
+        "Salt Pile",
+        "Raw Rabbit Leg"
+      ]
+    },
+    {
+      "title": "Roasted Tomato Crab Bisque",
+      "ingredients": [
+        "Salt Pile",
+        "Tomato",
+        "Butter",
+        "Crab Meat"
+      ]
+    },
+    {
+      "title": "Salmon Steak",
+      "ingredients": [
+        "Salt Pile",
+        "Salmon Meat or Salmon"
+      ]
+    },
+    {
+      "title": "Steamed Mudcrab Legs",
+      "ingredients": [
+        "Mudcrab Legs",
+        "Butter"
+      ]
+    },
+    {
+      "title": "Tomato Soup",
+      "ingredients": [
+        "Tomato",
+        "Salt Pile",
+        "Garlic",
+        "Leek"
+      ]
+    },
+    {
+      "title": "Vegetable Soup",
+      "ingredients": [
+        "Cabbage",
+        "Potato",
+        "Leek",
+        "Tomato"
+      ]
+    },
+    {
+      "title": "Venison Chop",
+      "ingredients": [
+        "Salt Pile",
+        "Venison"
+      ]
+    },
+    {
+      "title": "Venison Stew",
+      "ingredients": [
+        "Venison",
+        "Salt Pile",
+        "Potato",
+        "Leek"
+      ]
+    }
+  ],
+  "survival_hot_soup_variants_not_repeated": [
+    "Hot Apple Cabbage Stew",
+    "Hot Beef Stew",
+    "Hot Cabbage Potato Soup",
+    "Hot Cabbage Soup",
+    "Hot Clam Chowder",
+    "Hot Crab Stew",
+    "Hot Creamy Crab Bisque",
+    "Hot Elsweyr Fondue",
+    "Hot Horker and Ash Yam Stew",
+    "Hot Horker Stew",
+    "Hot Ironwood Soup",
+    "Hot Potato Crab Chowder",
+    "Hot Potato Soup",
+    "Hot Roasted Tomato Crab Bisque",
+    "Hot Tomato Soup",
+    "Hot Vegetable Soup",
+    "Hot Venison Stew"
+  ]
+}
