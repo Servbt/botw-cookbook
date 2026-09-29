@@ -29,9 +29,11 @@ Keep the final book clearly unofficial/fan-made and use original prose, original
 
 ## GitHub Pages site
 - `docs/index.html` — GitHub Pages landing page with book navigation.
-- `docs/chapters/` — chapter pages split from the EPUB source.
+- `docs/search.html` — pantry-ingredient search: type an ingredient you have and every matching recipe appears (comma-separate several ingredients to narrow down).
+- `docs/chapters/` — chapter pages split from the EPUB source (each recipe has a linkable anchor).
 - `docs/styles/site.css` — responsive sidebar/navigation styling.
 - `docs/book/The_Wild_Table.epub` — downloadable EPUB from the site.
+- `search_index.py` — extracts recipes + ingredients from the EPUB chapter XHTML into the search index.
 
 To publish with GitHub Pages:
 1. Push this repository to GitHub.

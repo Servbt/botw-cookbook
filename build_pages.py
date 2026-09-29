@@ -1,5 +1,6 @@
 from pathlib import Path
-import re, html, shutil
+import re, html, shutil, json
+import search_index
 
 root = Path('/home/arian/botw-cookbook')
 oebps = root / 'book/epub_build/OEBPS'
@@ -68,6 +69,15 @@ ul, ol { padding-left: 1.4rem; }
 .chapter-nav { display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-top: 1.25rem; border-top: 1px solid var(--line); }
 .chapter-nav a { text-decoration: none; font-weight: bold; }
 .notice { background:#f7ead5; border:1px solid var(--line); padding:1rem; border-radius:12px; }
+.muted { color: var(--muted); }
+.search-box { margin: 0 0 1.5rem; }
+.search-box label { display:block; font-weight:bold; margin-bottom:.4rem; color:#3a2112; }
+#pantry-input { width:100%; padding:.8rem 1rem; font-size:1.1rem; font-family:inherit; border:2px solid var(--accent); border-radius:10px; background:var(--paper); color:var(--ink); }
+#pantry-input:focus { outline:none; box-shadow:0 0 0 3px rgba(181,106,29,.25); }
+.recipe-hit { border-top:1px solid var(--line); padding-top:1rem; margin-top:1rem; }
+.recipe-hit h3 { margin-top:0; border-top:0; padding-top:0; }
+.recipe-hit h3 a { text-decoration:none; }
+.recipe-hit .ingredients { margin:.3rem 0 0; color:var(--muted); }
 @media (max-width: 860px) {
   .layout { display: block; }
   .sidebar { position: relative; height: auto; }
@@ -102,7 +112,8 @@ def page(title: str, body: str, current_idx=None, depth='') -> str:
         cls = ' class="active"' if idx == current_idx else ''
         links.append(f'<a{cls} href="{rel}">{html.escape(t)}</a>')
     nav = '\n        '.join(links)
-    top = f'<a href="{depth}index.html">Contents</a><a href="{depth}book/The_Wild_Table.epub">Download EPUB</a>'
+    nav += f'\n        <a href="{depth}search.html">Search by ingredient</a>'
+    top = f'<a href="{depth}index.html">Contents</a><a href="{depth}search.html">Search</a><a href="{depth}book/The_Wild_Table.epub">Download EPUB</a>'
     prev_next = ''
     if current_idx:
         if current_idx > 1:
@@ -143,18 +154,72 @@ def page(title: str, body: str, current_idx=None, depth='') -> str:
 (docs / 'book').mkdir(exist_ok=True)
 shutil.copy2(root / 'book/The_Wild_Table.epub', docs / 'book/The_Wild_Table.epub')
 
-index_body = '<h1>The Wild Table</h1>\n<div class="notice"><strong>Unofficial fan work:</strong> Original prose and real-world recipe adaptations. No official art, logos, or screenshots.</div>\n<h2>Contents</h2>\n<ol>' + ''.join(f'<li><a href="{href}">{html.escape(title)}</a></li>' for _, title, href in entries) + '</ol>'
+index_body = '<h1>The Wild Table</h1>\n<div class="notice"><strong>Unofficial fan work:</strong> Original prose and real-world recipe adaptations. No official art, logos, or screenshots.</div>\n<p><a href="search.html"><strong>🔍 Search by ingredient</strong></a> — type what is in your pantry and every matching recipe appears.</p>\n<h2>Contents</h2>\n<ol>' + ''.join(f'<li><a href="{href}">{html.escape(title)}</a></li>' for _, title, href in entries) + '</ol>'
 (docs / 'index.html').write_text(page('Contents', index_body, None, ''), encoding='utf-8')
+
+def add_anchors(content: str) -> str:
+    def repl(m):
+        inner = m.group(1)
+        title = re.sub('<.*?>', '', inner).strip()
+        return f'<h3 id="{search_index.slugify(title)}">{inner}</h3>'
+    return re.sub(r'<h3[^>]*>(.*?)</h3>', repl, content, flags=re.S | re.I)
 
 for idx, p in enumerate(chapters, 1):
     x = p.read_text(encoding='utf-8')
     content = body_inner(x)
     content = re.sub(r'href="chapter(\d{2})\.xhtml"', r'href="chapter\1.html"', content)
+    content = add_anchors(content)
     title = entries[idx - 1][1]
     (docs / 'chapters' / f'chapter{idx:02d}.html').write_text(page(title, content, idx, '../'), encoding='utf-8')
+
+# Pantry-ingredient search page backed by the recipe index.
+recipe_index = search_index.extract_recipes(oebps)
+index_json = json.dumps(recipe_index, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
+
+search_js = """
+(function(){
+  var data = JSON.parse(document.getElementById('recipe-index').textContent);
+  var input = document.getElementById('pantry-input');
+  var out = document.getElementById('results');
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function matches(recipe,t){
+    if(recipe.title.toLowerCase().indexOf(t)>-1) return true;
+    return recipe.ingredients.some(function(i){return i.toLowerCase().indexOf(t)>-1;});
+  }
+  function render(){
+    var q = input.value.trim().toLowerCase();
+    if(!q){ out.innerHTML = '<p class="muted">Start typing an ingredient you have on hand \u2014 for example <em>cabbage</em>, <em>egg</em>, <em>mushroom</em>, or <em>tomato</em>.</p>'; return; }
+    var terms = q.split(/[,\\n]+/).map(function(s){return s.trim();}).filter(Boolean);
+    var hits = data.filter(function(r){ return terms.every(function(t){ return matches(r,t); }); });
+    if(!hits.length){ out.innerHTML = '<p class="notice">No recipes match \u201c'+esc(q)+'\u201d. Try a shorter ingredient word.</p>'; return; }
+    var html = '<p class="muted">'+hits.length+' recipe'+(hits.length===1?'':'s')+' match.</p>';
+    html += hits.map(function(r){
+      var matched = r.ingredients.filter(function(i){ return terms.some(function(t){ return i.toLowerCase().indexOf(t)>-1; }); });
+      var listHtml = matched.length ? '<ul class="ingredients">'+matched.map(function(i){return '<li>'+esc(i)+'</li>';}).join('')+'</ul>' : '';
+      return '<article class="recipe-hit"><h3><a href="'+r.href+'#'+r.anchor+'">'+esc(r.title)+'</a></h3><p class="muted">'+esc(r.chapter)+'</p>'+listHtml+'</article>';
+    }).join('');
+    out.innerHTML = html;
+  }
+  input.addEventListener('input', render);
+  render();
+})();
+"""
+
+search_body = (
+    '<h1>Search by ingredient</h1>'
+    '<div class="notice">Type an ingredient you have on hand and every matching recipe appears. '
+    'Separate several ingredients with commas to narrow it down (e.g. <em>egg, mushroom</em>).</div>'
+    '<div class="search-box"><label for="pantry-input">Your pantry ingredients</label>'
+    '<input id="pantry-input" type="search" placeholder="cabbage, egg, mushroom\u2026" autocomplete="off"></div>'
+    '<div id="results" aria-live="polite"></div>'
+    f'<script id="recipe-index" type="application/json">{index_json}</script>'
+    f'<script>{search_js}</script>'
+)
+(docs / 'search.html').write_text(page('Search by ingredient', search_body, None, ''), encoding='utf-8')
 
 (docs / '.nojekyll').write_text('', encoding='utf-8')
 print(f'Created GitHub Pages static site in {docs}')
 print('Pages:', len(list((docs / 'chapters').glob('*.html'))) + 1)
+print(f'Search index: {len(recipe_index)} recipes')
 for _, title, href in entries:
     print(f'- {title} -> {href}')
