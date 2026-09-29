@@ -1,43 +1,68 @@
-# BOTW-Inspired Real-Life Cookbook Project
+# The Wild Table — an unofficial real-world cookbook
 
-Working title: **The Wild Table**
+An original, unofficial cookbook adapted from Breath of the Wild, Tears of the
+Kingdom, and Skyrim cooking. 211 recipes across eight reader-facing chapters,
+published as a GitHub Pages site plus a downloadable EPUB and a printable web book.
 
-This folder contains the first concrete book artifact for an unofficial, original, real-world cookbook inspired by Breath of the Wild, Tears of the Kingdom, and Skyrim cooking.
+Live site: https://servbt.github.io/botw-cookbook/
 
-## Files
-- `data/botw_food_source_extract.json` — structured recipe catalog extracted from public wiki data for planning.
-- `data/botw_food_source_extract.csv` — spreadsheet-friendly catalog.
-- `data/totk_game8_recipes.json` — scraped planning reference for Tears of the Kingdom cooked dishes and elixirs from Game8, used for duplicate screening.
-- `data/skyrim_uesp_cooking_recipes.json` — scraped planning reference for Skyrim player-cooked foods from UESP's MediaWiki API.
-- `manuscript/The_Wild_Table_v0.5.md` — expanded literal book manuscript with the Breath of the Wild set plus non-duplicate Tears of the Kingdom additions adapted into full recipe pages.
-- `manuscript/The_Wild_Table_v0.4.md` — previous draft kept for history.
-- `manuscript/The_Wild_Table_v0.3.md` — previous draft kept for history.
-- `manuscript/The_Wild_Table_v0.2.md` — previous draft kept for history.
-- `manuscript/The_Wild_Table_v0.1.md` — previous draft kept for history.
+## How it is built (single source of truth)
 
-## Current status
-- Catalogued the original 116 cooking pot meals, 12 elixirs, 46 roasted foods, and 13 frozen foods, then cross-checked Tears of the Kingdom additions.
-- Drafted 211 full real-life recipe pages, including 51 Skyrim player-cooked food adaptations.
-- Next step: format/export the manuscript into a literal book file, then optionally design a cover and interior layout.
+Everything is generated from one canonical model, so the manuscript, EPUB, print
+edition, and website can never drift apart.
 
-## Rights note
-Keep the final book clearly unofficial/fan-made and use original prose, original photography/illustration, and no Nintendo-owned art/logos/screenshots.
+- `cookbook_model.py` — parses the manuscript into structured recipes, classifies
+  them into the eight thematic chapters, applies dietary tags and voice notes.
+- `cookbook_overlays.py` — authored content: bespoke Skyrim methods (replacing the
+  old templated blocks) and "serving note" voice lines.
+- `cookbook_build.py` — writes the manuscript (`manuscript/The_Wild_Table_v0.6.md`),
+  the EPUB (`book/The_Wild_Table.epub`), and the print edition (`book/The_Wild_Table.html`).
+- `cookbook_build_site.py` — writes the whole `docs/` site: hero index, chapter
+  pages, filterable search, `sitemap.xml`, `robots.txt`, and a legal page.
+
+Rebuild everything with:
+
+```
+python3 cookbook_build_site.py
+pytest tests -q
+```
+
+## Chapters (reader-facing)
+
+| Chapter | Title |
+| --- | --- |
+| I | Stable Comforts |
+| II | Road Food: Skewers, Roasts & Grills |
+| III | Rice, Curry & Village Bowls |
+| IV | From the Coasts: Seafood |
+| V | Sweets, Cakes & Crepes |
+| VI | Elixirs & Tonics |
+| VII | Tears of the Kingdom Additions |
+| VIII | Skyrim: A Nord's Table |
+
+Appendices A–D are the in-game checklists; there is also a Legal & Disclaimer page.
+
+## Website features
+
+- `docs/index.html` — hero landing with a pantry search box, chapter cards, contents.
+- `docs/search.html` — search by the ingredients you have; filter by chapter and by
+  dietary tag (vegetarian, vegan, dairy-free, gluten-free, quick, easy). Every
+  result deep-links to the exact recipe.
+- `docs/sitemap.xml`, `docs/robots.txt` — discovery.
+- Open Graph tags on every page for nice link previews.
+- Print CSS so any chapter prints cleanly, plus a one-file printable edition.
 
 ## Book exports
-- `book/The_Wild_Table.epub` — ebook version for Apple Books, Kindle conversion, Calibre, etc.
-- `book/The_Wild_Table.html` — printable/styled web book version.
 
-## GitHub Pages site
-- `docs/index.html` — GitHub Pages landing page with book navigation.
-- `docs/search.html` — pantry-ingredient search: type an ingredient you have and every matching recipe appears (comma-separate several ingredients to narrow down).
-- `docs/chapters/` — chapter pages split from the EPUB source (each recipe has a linkable anchor).
-- `docs/styles/site.css` — responsive sidebar/navigation styling.
-- `docs/book/The_Wild_Table.epub` — downloadable EPUB from the site.
-- `search_index.py` — extracts recipes + ingredients from the EPUB chapter XHTML into the search index.
+- `book/The_Wild_Table.epub` — ebook for Apple Books, Kindle (via Calibre), etc.
+- `book/The_Wild_Table.html` — printable/save-as-PDF web book.
 
-To publish with GitHub Pages:
-1. Push this repository to GitHub.
-2. In GitHub, open **Settings → Pages**.
-3. Set **Source** to **Deploy from a branch**.
-4. Select branch `main` and folder `/docs`.
-5. Save. The site will publish at `https://<username>.github.io/<repo>/`.
+## Rights note
+
+Keep this clearly unofficial and fan-made: original prose, original illustrations
+and icons, and no Nintendo/Bethesda-owned art, logos, or screenshots. The site and
+book both carry an explicit "not affiliated" notice.
+
+## Publishing
+
+GitHub Pages is served from `main` → `/docs`, so pushing to `main` updates the site.

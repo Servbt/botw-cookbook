@@ -3,57 +3,53 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-OEBPS = ROOT / "book" / "epub_build" / "OEBPS"
 DOCS = ROOT / "docs"
 
 
-def read(path: Path) -> str:
-    return path.read_text(encoding="utf-8")
+def read(path) -> str:
+    return (ROOT / path).read_text(encoding="utf-8")
 
 
-def embedded_index() -> list:
-    html = read(DOCS / "search.html")
+def model() -> dict:
+    html = read("docs/search.html")
     m = re.search(r'<script id="recipe-index" type="application/json">(.*?)</script>', html, re.S)
     assert m, "search.html must embed a <script id=recipe-index> JSON blob"
-    return json.loads(m.group(1))
+    return json.loads(m.group(1).replace("<\\/", "</"))
 
 
-def test_search_index_extraction_returns_recipes_with_ingredients():
-    import search_index
+def flat(m: dict) -> list:
+    out = []
+    for c in m["chapters"]:
+        for r in c["recipes"]:
+            out.append(dict(r, chapterTitle=c["title"]))
+    return out
 
-    recipes = search_index.extract_recipes(OEBPS)
-    assert len(recipes) > 150
-    by_title = {r["title"]: r for r in recipes}
+
+def test_embedded_index_has_all_recipes():
+    data = flat(model())
+    assert len(data) == 211
+    by_title = {r["title"]: r for r in data}
     assert "Apple Cabbage Stew" in by_title
-    apple = by_title["Apple Cabbage Stew"]
-    assert any("cabbage" in i.lower() for i in apple["ingredients"])
-    assert apple["href"].startswith("chapters/")
-    assert apple["anchor"]
+    assert any("cabbage" in i.lower() for i in by_title["Apple Cabbage Stew"]["ingredients"])
 
 
-def test_search_page_has_pantry_ingredient_matching():
-    recipes = embedded_index()
-    assert len(recipes) > 150
-    # Typing "cabbage" as a pantry ingredient should surface cabbage dishes.
-    matching = [r["title"] for r in recipes if any("cabbage" in i.lower() for i in r["ingredients"])]
+def test_pantry_matching_surfaces_expected_dishes():
+    data = flat(model())
+    matching = [r["title"] for r in data if any("cabbage" in i.lower() for i in r["ingredients"])]
     assert "Apple Cabbage Stew" in matching
     assert "Cabbage Potato Soup" in matching
 
 
-def test_search_page_contains_query_ui_and_script():
-    html = read(DOCS / "search.html")
-    assert 'id="pantry-input"' in html
-    assert 'id="results"' in html
-    assert "addEventListener" in html
+def test_search_page_has_filters_and_query_ui():
+    html = read("docs/search.html")
+    for token in ['id="pantry-input"', 'id="results"', 'id="category-filters"',
+                  'id="tag-filters"', "addEventListener", "activeTag"]:
+        assert token in html, f"search.html missing {token}"
 
 
 def test_every_recipe_has_a_linkable_anchor_in_its_chapter():
-    recipes = embedded_index()
-    checked = 0
-    for r in recipes:
-        chapter_file = DOCS / r["href"]
-        if not chapter_file.exists():
-            continue
-        assert f'id="{r["anchor"]}"' in read(chapter_file), f'missing anchor {r["anchor"]} in {r["href"]}'
-        checked += 1
-    assert checked > 150
+    data = flat(model())
+    for r in data:
+        chapter_file = DOCS / f"chapters/chapter{r['chapterNumber']:02d}.html"
+        assert chapter_file.exists(), f"missing chapter file for {r['title']}"
+        assert f'id="{r["id"]}"' in chapter_file.read_text(encoding="utf-8")

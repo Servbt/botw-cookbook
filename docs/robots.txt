@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://servbt.github.io/botw-cookbook/sitemap.xml

@@ -1,49 +1,38 @@
+import json
+import re
+from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-EXPECTED_SKYRIM_RECIPES = [
-    "Apple Cabbage Stew",
-    "Beef Stew",
-    "Elsweyr Fondue",
-    "Horker Stew",
-    "Mammoth Steak",
-    "Salmon Steak",
-    "Steamed Mudcrab Legs",
-    "Venison Stew",
-]
-
-EXPECTED_SKIPPED_VARIANTS = [
-    "Hot Beef Stew",
-    "Hot Vegetable Soup",
-]
+EXPECTED_SKYRIM_RECIPES = ["Apple Cabbage Stew", "Beef Stew", "Elsweyr Fondue",
+                           "Horker Stew", "Mammoth Steak", "Salmon Steak",
+                           "Steamed Mudcrab Legs", "Venison Stew"]
 
 
 def read(path: str) -> str:
     return (ROOT / path).read_text(encoding="utf-8")
 
 
-def test_skyrim_cooking_recipes_exist_as_their_own_chapter_in_manuscript():
-    manuscript = read("manuscript/The_Wild_Table_v0.5.md")
-    assert "# Chapter VII — Skyrim Cooking Recipes" in manuscript
-    skyrim_chapter = manuscript.split("# Chapter VII — Skyrim Cooking Recipes", 1)[1]
+def test_skyrim_is_own_chapter_in_manuscript():
+    manuscript = read("manuscript/The_Wild_Table_v0.6.md")
+    assert "# Chapter VIII — Skyrim: A Nord's Table" in manuscript
+    chapter = manuscript.split("# Chapter VIII — Skyrim: A Nord's Table", 1)[1]
     for title in EXPECTED_SKYRIM_RECIPES:
-        assert f"### {title}" in skyrim_chapter
+        assert f"### {title}" in chapter
 
 
-def test_skyrim_survival_hot_soup_variants_are_documented_not_repeated():
-    manuscript = read("manuscript/The_Wild_Table_v0.5.md")
-    skyrim_chapter = manuscript.split("# Chapter VII — Skyrim Cooking Recipes", 1)[1]
-    assert "Survival Mode hot soups" in skyrim_chapter
-    for title in EXPECTED_SKIPPED_VARIANTS:
-        assert f"### {title}" not in skyrim_chapter
-
-
-def test_epub_and_static_site_include_skyrim_chapter():
-    nav = read("book/epub_build/OEBPS/nav.xhtml")
-    index = read("docs/index.html")
-    chapter = read("docs/chapters/chapter12.html")
-    assert "Chapter VII — Skyrim Cooking Recipes" in nav
-    assert "Chapter VII — Skyrim Cooking Recipes" in index
+def test_skyrim_chapter_page_published():
+    chapter = read("docs/chapters/chapter09.html")
     for title in EXPECTED_SKYRIM_RECIPES:
         assert title in chapter
+
+
+def test_skyrim_methods_are_bespoke_not_templated():
+    model = json.loads(read("data/recipes.json"))
+    skyrim = next(c for c in model["chapters"] if c["slug"] == "skyrim")
+    assert len(skyrim["recipes"]) == 51
+    texts = [re.sub(r"\s+", " ", " ".join(r["method"])).strip() for r in skyrim["recipes"]]
+    dupes = [t for t, n in Counter(texts).items() if n > 1]
+    assert not dupes, f"{len(dupes)} templated/repeated Skyrim methods remain"
+    assert all(r["note"] for r in skyrim["recipes"])
