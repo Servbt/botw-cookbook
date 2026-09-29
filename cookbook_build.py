@@ -84,9 +84,10 @@ soups and stews are always better the next day.</p>
 guarantee: always check your own labels.</p>
 
 <h2>A note on this being a fan work</h2>
-<p>This is an original, unofficial fan cookbook. It contains no official art, logos, or screenshots, and is
-not affiliated with or endorsed by Nintendo or Bethesda. All recipes are original real-world adaptations.
-See the <a href="chapter14.html">Legal &amp; Disclaimer</a> page.</p>
+<p>This is an original, unofficial fan cookbook. Each dish card quotes the short in-game flavor text for
+that meal (from <em>Breath of the Wild</em> / <em>Tears of the Kingdom</em>); everything else — recipes, prose, and
+illustrations — is original real-world adaptation. It contains no official art, logos, or screenshots, and is
+not affiliated with or endorsed by Nintendo or Bethesda. See the <a href="chapter14.html">Legal &amp; Disclaimer</a> page.</p>
 """.strip()
 
 LEGAL_BODY = """
@@ -96,8 +97,10 @@ or endorsed by Nintendo, Bethesda Softworks, ZeniMax, or any of their subsidiari
 <p>The Legend of Zelda, Breath of the Wild, Tears of the Kingdom, The Elder Scrolls, and Skyrim are trademarks
 of their respective owners. All names are used descriptively to explain what inspired each recipe.</p>
 <h2>Content</h2>
-<p>All recipes, prose, and illustrations in this book are original real-world adaptations created for this
-project. No official artwork, logos, screenshots, or copied in-game text are included.</p>
+<p>All recipes, real-world instructions, prose, and illustrations in this book are original adaptations created
+for this project. Each dish card also quotes the short in-game flavor text for that meal, which remains the
+property of its respective rights holders and is included descriptively. No official artwork, logos,
+screenshots, or other copied in-game text are included.</p>
 <h2>Use</h2>
 <p>Cook everything at your own risk and use normal kitchen safety. Adapt recipes to your own dietary needs.
 AI-generated or self-authored illustrations and icons are original works.</p>

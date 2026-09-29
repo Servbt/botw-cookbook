@@ -172,17 +172,20 @@ def _minutes(time_text: str) -> int:
 
 FALLBACK_NOTES = [
     "Simple, honest, and better than it needs to be.",
-    "A good one to know by heart.",
-    "Worth making once and then again by memory.",
-    "Rustic and unfussy — the way camp food should be.",
-    "Tastes like a longer trip than it took.",
-    "Keep this one in the back pocket.",
 ]
+
+
+def _flavor_text() -> dict:
+    path = ROOT / "data" / "zelda_flavortext.json"
+    if path.exists():
+        return json.loads(path.read_text(encoding="utf-8"))
+    return {}
 
 
 def build_model() -> dict:
     import cookbook_overlays as ov
 
+    flavor = _flavor_text()
     recipes = parse_manuscript()
     chapters = {slug: {"slug": slug, "title": title, "blurb": blurb, "recipes": []}
                 for slug, title, blurb in CHAPTERS}
@@ -193,10 +196,9 @@ def build_model() -> dict:
             r["method"] = ov.SKYRIM_METHODS[r["title"]]
         if slug == "skyrim":
             r["note"] = ov.SKYRIM_NOTES.get(r["title"], "")
-        elif not r["note"]:
-            r["note"] = ov.ZELDA_NOTES.get(r["title"], "")
-        if not r["note"]:
-            r["note"] = FALLBACK_NOTES[len(r["title"]) % len(FALLBACK_NOTES)]
+        else:
+            # Use the actual in-game flavor text for the BotW / TotK dishes.
+            r["note"] = flavor.get(r["title"]) or ov.ZELDA_NOTES.get(r["title"], "")
         r["tags"] = [slug] + dietary_tags(r)
         if _minutes(r["time"]) and _minutes(r["time"]) <= 30:
             r["tags"].append("quick")

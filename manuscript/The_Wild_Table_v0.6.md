@@ -58,7 +58,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 4. Stir in milk and simmer 5 more minutes.
 5. Mash a few carrots against the pot to thicken; serve with bread.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** This simple stew sat simmering for a long time to bring out the sweetness of the carrots.
 
 ---
 
@@ -86,7 +86,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 4. Simmer 15 minutes, then add milk or cream.
 5. Blend part of the soup if you want it thicker.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** The creamy mushroom and vegetable soup is so chunky it eats like a meal!
 
 ---
 
@@ -113,7 +113,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 4. Add milk and warm gently.
 5. Season and finish with parsley.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** Made by simmering vegetables in milk, this healthy dish is as simple as the ingredients.
 
 ---
 
@@ -138,7 +138,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Serve cold with torn mint or basil.
 4. For a sweeter dessert version, add more honey and skip half the radish.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** Enjoying this sweet soup with another person will bring you both closer together.
 
 ---
 
@@ -164,7 +164,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Simmer 35–40 minutes, until tender.
 4. Stir in milk and flour slurry. Simmer until lightly thickened.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** This nutritious soup contains serious portions of lightly-braised meat and many vegetables.
 
 ---
 
@@ -189,7 +189,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 4. Top with fried eggs.
 5. Name it only after eating it.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** It's too gross to even look at. A bizarre smell issues forth from this heap. Eating it won,t hurt you, though...probably.
 
 ---
 
@@ -214,7 +214,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Cook until glossy and browned.
 4. Finish with parsley.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** The fragrant aroma of this sautéed spice and mushroom dish makes your mouth water.
 
 ---
 
@@ -238,7 +238,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Stir in honey and vinegar.
 4. Serve beside roast meat, rice, or bread.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** This dish contrasts the sweetness of fruit with the savoriness of mushrooms.
 
 ---
 
@@ -265,7 +265,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Simmer gently 1–1 1/2 hours until tender.
 4. Stir in milk or cream and warm through.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** The meat has simmered for so long it melts in your mouth. A true bucket-list meal!
 
 ---
 
@@ -288,7 +288,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 2. Add greens or vegetables and toss until tender.
 3. Season with salt and lemon.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** A fragrant mixture of herbs and spices. It's easily recognized by its unique aroma.
 
 ---
 
@@ -311,7 +311,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Cook until tender and lightly caramelized.
 4. Eat hot, ideally from a bowl held in both hands.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** The apple's sweetness has been enhanced by smothering it with butter and baking it.
 
 ---
 
@@ -337,7 +337,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Simmer until thick, then cool slightly.
 4. Fill pastry, crimp, vent, and bake at 400°F / 200°C for 25–30 minutes.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** You'll need an extra napkin to deal with this juicy pie of perfectly baked minced meat.
 
 ---
 
@@ -363,7 +363,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Simmer until meat and vegetables are tender.
 4. Add milk and warm gently.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** The hearty meat in this mainstay dish leaves bellies satisfied all throughout Hyrule.
 
 ---
 
@@ -387,7 +387,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Stir in rice or bread cubes and optional cheese.
 4. Fill pumpkins and bake 15–20 more minutes.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** This hollow, meat-filled fortified pumpkin is a local specialty or Kakariko Village.
 
 ---
 
@@ -414,7 +414,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 4. Add milk and balsamic or black garlic.
 5. Blend partly for a shadowy, creamy bowl.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Using monster extract as a base, this soup's distinct gaminess is either loved or hated.
 
 ---
 
@@ -440,7 +440,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Add seafood and cook just until done.
 4. Serve with bread or rice.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Meat and seafood simmered in monster extract. A savory dish despite its ingredients.
 
 ---
 
@@ -463,7 +463,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Add mushrooms and optional cheese or herbs.
 4. Fold when just set.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** The fluffy texture of this omelet is one of the great joys of this dish, as well as life.
 
 ---
 
@@ -485,7 +485,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Add eggs and stir gently until curds form.
 4. Fold while still soft and glossy.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** This simple dish is common all over Hyrule. Simply fry egg until it's nice and plump.
 
 ---
 
@@ -510,7 +510,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Stir in stock, salt, pepper, and thyme; simmer until tender.
 4. Add milk and warm gently.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Letting the large portions of choice cuts of meat simmer brought out their savoriness.
 
 ---
 
@@ -536,7 +536,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Add pumpkin, sage, salt, and pepper. Simmer until tender.
 4. Stir in milk and lightly mash for a thick, rustic texture.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Simply simmer a fortified pumpkin to make this dish. A favorite in Kakariko Village.
 
 ---
 
@@ -560,7 +560,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Roll very thin and score into shards.
 4. Bake 25–30 minutes until hard and crisp.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** A dish gone awry after adding the wrong ingredient. Chewing your way through this won't be fun, but it will fill you up when you're between a rock and a hard place.
 
 ---
 
@@ -583,7 +583,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Stir until glossy.
 4. Cool on parchment.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** These sautéed tree seeds are the perfect snack for the busy adventurer on the go!
 
 ---
 
@@ -606,7 +606,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Season with salt and lime.
 4. Sprinkle with sesame if desired.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Grants low-level cold resistance. The spiciness of these sautéed peppers has been broken by the heat for a sweeter taste.
 
 ---
 
@@ -629,7 +629,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Steam in a covered pan until cooked through.
 4. Serve with rice.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** This meat dish has been wrapped in fragrant leaves and steamed to preserve its moisture.
 
 ---
 
@@ -652,7 +652,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Cover and steam until tender.
 4. Toss before serving.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** A healthy vegetable dish achieved by steaming mushrooms in plant leaves.
 
 ---
 
@@ -675,7 +675,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Add eggs and cook gently.
 4. Fold with optional cheese.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** This home-style dish mixes fluffy eggs with chopped vegetables for nutritional balance.
 
 ---
 
@@ -699,7 +699,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Stir in milk and butter.
 4. Season and finish with herbs.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** This creamy soup showcases the sweetness of vegetables in a veritable taste explosion.
 
 ---
 
@@ -721,7 +721,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Pour into a mug.
 4. Drink before sleeping at the inn.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Make this by heating up some milk. Drink it before bed to ensure a good night's sleep.
 
 ---
 
@@ -745,7 +745,7 @@ _Soups, stews, and warm bowls for a cold ride home._
 3. Shape into a loaf and rise again.
 4. Bake at 400°F / 200°C for 30–35 minutes.
 
-**Serving note:** Better with a long, slow rise and a very hot oven.
+**Serving note:** Made with wheat from the Tabantha region, this soft, springy bread smells just heavenly.
 
 ---
 
@@ -773,7 +773,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Stir in herbs, seeds, salt, and pepper.
 4. Finish with lemon and serve piled high.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** A healthy dish made by cooking mixed greens over a strong flame.
 
 ---
 
@@ -798,7 +798,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Grill or broil until each skewer is cooked through.
 4. Serve as a feast platter.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** Just shove a bunch of meat on to a skewer and you're good to go.
 
 ---
 
@@ -822,7 +822,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Grill or roast at 425°F / 220°C until browned.
 4. Serve hot as a forest feast.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Fans of fungal cuisine can't resist this simple mushroom-skewer dish. Very filling.
 
 ---
 
@@ -846,7 +846,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Season with salt and chili flakes.
 4. Finish with lemon.
 
-**Serving note:** Fast, sharp, and better than a vitamin pill.
+**Serving note:** A basic vegetable dish made by sautéing fresh wild plants.
 
 ---
 
@@ -872,7 +872,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 4. Simmer and toss until the sauce turns sticky and coats the meat.
 5. Rest 5 minutes before serving.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** The sweetness of the honey permeates the meat, giving it a complex taste profile.
 
 ---
 
@@ -897,7 +897,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Cook 2–3 minutes until glossy and sticky.
 4. Serve over rice or beside roasted meat.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** The honey in this mushroom dish gives it a sweet, complex taste and a savory finish.
 
 ---
 
@@ -921,7 +921,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Uncover and cook until the liquid reduces to a glaze.
 4. Finish with lemon or herbs.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** Don't like the taste of vegetables? Simply sauté them in honey for a salty-sweet flavor!
 
 ---
 
@@ -946,7 +946,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Grill or broil 8–12 minutes, turning often.
 4. Rest before serving.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** The rich aroma and juicy texture of this high-quality meat puts it in a league of its own.
 
 ---
 
@@ -971,7 +971,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Grill or broil, turning often, until cooked through.
 4. Rest 5 minutes.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** A filling dish made by grilling various mountain ingredients with either steak or bird meat.
 
 ---
 
@@ -996,7 +996,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Grill or broil 8–12 minutes, turning often, until browned and cooked through.
 4. Rest 5 minutes before eating.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** A juicy, filling snack made by grilling small chunks of meat on a skewer.
 
 ---
 
@@ -1020,7 +1020,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Grill or roast at 425°F / 220°C for 15–18 minutes.
 4. Finish with more lemon.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** This simple mushroom-packed skewer has its colorful presentation to thank for its appeal.
 
 ---
 
@@ -1044,7 +1044,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Add peppers, soy sauce, and honey.
 4. Cook until glossy and the peppers soften.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** A dish made by cooking meat in crushed peppers, suppressing the gamy taste while accentuating its flavor.
 
 ---
 
@@ -1068,7 +1068,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Grill or broil until browned and cooked through.
 4. Rest 5 minutes.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** The simple preparation of this steak dish belies its complex taste profile.
 
 ---
 
@@ -1091,7 +1091,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Rest 5–10 minutes.
 4. Finish with pepper and optional butter.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** This lavish grilled dish makes liberal use of high-quality cuts of meat.
 
 ---
 
@@ -1113,7 +1113,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Finish with lemon.
 4. Serve immediately.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** A health-boosting dish made with leafy greens and a touch of salt.
 
 ---
 
@@ -1136,7 +1136,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Rest before slicing.
 4. Finish with lemon if desired.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** Short on ingredients? Just rub some meat in salt and cook it for a simple, tasty dish.
 
 ---
 
@@ -1158,7 +1158,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 2. Grill or roast at 425°F / 220°C until browned.
 3. Finish with parsley or lemon.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** A basic mushroom dish made by lightly salting mushrooms and grilling them.
 
 ---
 
@@ -1180,7 +1180,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Rest before slicing.
 4. Serve simply so the meat is the point.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** A simple yet exquisite dish made by grilling high-quality meat on top of rock salt.
 
 ---
 
@@ -1204,7 +1204,7 @@ _Skewers, roasts, and glazed things cooked over an open fire._
 3. Grill or broil until browned.
 4. Rest before serving.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** A special Goron spice covers up the scent of the meat, allowing its flavor to shine.
 
 ---
 
@@ -1234,7 +1234,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 4. Cook eggs in a nonstick pan into two soft omelets.
 5. Slide each omelet over a mound of crab rice.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** The fluffy crab legs pair perfectly with the rice for a truly scrumptious dish.
 
 ---
 
@@ -1261,7 +1261,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 4. Fold in crab, parmesan, final butter, lemon zest, salt, and pepper.
 5. Serve immediately; risotto waits for no hero.
 
-**Serving note:** Stir it patiently; risotto waits for no hero.
+**Serving note:** An everyday staple of seaside villages, the secret to its delicious flavor lies in crab fat.
 
 ---
 
@@ -1287,7 +1287,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 4. Rest 10 minutes off heat, then fluff.
 5. Serve with sliced boiled eggs or a fried egg.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** The Goron spice used in this pilaf has given it a rich, spicy aroma.
 
 ---
 
@@ -1313,7 +1313,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Stir in curry roux until glossy and thick.
 4. Spoon over hot rice.
 
-**Serving note:** The leftovers are arguably better the next day.
+**Serving note:** A favorite all over Hyrule, this simple dish has a flavor you just won't get tired of.
 
 ---
 
@@ -1337,7 +1337,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Fry eggs to your liking.
 4. Top rice with eggs and scallion.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** The soft egg yolk pairs well with the fresh rice in this simple dish.
 
 ---
 
@@ -1363,7 +1363,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 4. Slice steak over rice and spoon pan sauce on top.
 5. Finish with scallion.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** Only the most carefully selected cuts of high-quality meats go into this dish.
 
 ---
 
@@ -1388,7 +1388,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Stir in curry roux until thick and glossy.
 4. Serve over rice.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** The high-quality meat used in this prized dish satisfies meat and curry lovers alike.
 
 ---
 
@@ -1413,7 +1413,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Stir in curry roux until thick.
 4. Serve over rice.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Once served in Hyrule Castle, the poultry used in this dish is of immensely high quality.
 
 ---
 
@@ -1438,7 +1438,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Cover and simmer 15 minutes, then rest 10 minutes.
 4. Fluff and serve with eggs.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Made with the highest-quality poultry, every bite of this pilaf floods your mouth with flavor.
 
 ---
 
@@ -1463,7 +1463,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Spoon over hot rice.
 4. Finish with scallion.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** This dish of rice and lightly seared meat is a mainstay all throughout Hyrule.
 
 ---
 
@@ -1487,7 +1487,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Stir in curry roux until thick.
 4. Serve over rice.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** The heat from the spice allows you to enjoy the large portion of the meat's savoriness.
 
 ---
 
@@ -1511,7 +1511,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 4. Shape into triangles or balls.
 5. Wrap with nori or roll in sesame seeds.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** The sweet and spicy meat stuffed into these rice balls will keep you full for some time.
 
 ---
 
@@ -1537,7 +1537,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Stir in curry roux and black garlic or glaze.
 4. Serve dark, glossy, and a little mysterious over rice.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** This unusual take on curry uses monster extract and doesn't rely on spices.
 
 ---
 
@@ -1560,7 +1560,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Shape with wet hands into balls or triangles.
 4. Serve warm or room temperature.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Rice balls flavored with monster extract. Their unique aroma is not for everyone.
 
 ---
 
@@ -1584,7 +1584,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Wet and salt your hands, then shape rice around a spoonful of mushrooms.
 4. Wrap with nori if desired.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** The aroma of the mushrooms tickles your nose as you peel back the leafy wrapping.
 
 ---
 
@@ -1610,7 +1610,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Add wine, then stock one ladle at a time, stirring.
 4. Fold in mushrooms and parmesan. Season and serve.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** The tantalizing aroma of mushrooms and butter beckons you to the table.
 
 ---
 
@@ -1634,7 +1634,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Add stock and simmer until chicken is tender.
 4. Stir in curry roux and serve over rice.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** The savory meat pairs well with the aroma of spice in this common curry.
 
 ---
 
@@ -1658,7 +1658,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Cover and simmer 15 minutes; rest 10 minutes.
 4. Serve with sliced boiled eggs or fried eggs.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** Sautéed Hylian rice steamed in poultry broth. Cook on low heat until the rice is fluffy.
 
 ---
 
@@ -1682,7 +1682,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Melt butter in the pan with a pinch of salt.
 4. Serve meat over rice with pan butter and scallion.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** This bowl is loaded with high-quality meat. Your hunt for a serious meal ends here.
 
 ---
 
@@ -1706,7 +1706,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Add stock and simmer until tender.
 4. Stir in curry roux and serve over rice.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** The high-quality meat in this curry has given it a deeper taste than most other curries.
 
 ---
 
@@ -1730,7 +1730,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Add stock and simmer 20 minutes.
 4. Stir in curry roux and serve over rice.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** The secret to this curry's flavor is taking it off the heat while you add the spices.
 
 ---
 
@@ -1754,7 +1754,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Cover and simmer, then rest.
 4. Top with boiled or fried eggs.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** The rice permeates the savory taste of the poultry in this Gerudo-region favorite.
 
 ---
 
@@ -1779,7 +1779,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Add warm stock gradually, stirring until creamy.
 4. Fold in salmon and parmesan.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** The rice used in this rich risotto permeates the light flavor of the salmon.
 
 ---
 
@@ -1803,7 +1803,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Stir in curry base.
 4. Add seafood last and cook just until done; serve over rice.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** This dish brims with treasures from the sea. Its spice packs a kick, so it's not for kids.
 
 ---
 
@@ -1828,7 +1828,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Return seafood with soy sauce, scallion, salt, and pepper.
 4. Fry until hot and lightly crisp.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Various seafood has been sautéed with rice. The stronger the flame, the tastier the dish!
 
 ---
 
@@ -1851,7 +1851,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Shape rice around seafood filling.
 4. Wrap with nori if desired.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Stuffed with aromatic seafood, the flavor can vary by ingredients but never disappoints.
 
 ---
 
@@ -1875,7 +1875,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Stir in curry base.
 4. Serve over rice.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** This healthy curry is popular for its mild flavor and moderate spiciness.
 
 ---
 
@@ -1900,7 +1900,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Stir in warm stock gradually until creamy.
 4. Finish with parmesan, salt, and pepper.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** The sweetness of the ingredients gives this risotto a mild flavor.
 
 ---
 
@@ -1923,7 +1923,7 @@ _Rice, curry, pilaf, risotto, and hearty bowls._
 3. Shape rice around vegetables or mix them through.
 4. Wrap with nori or roll in sesame.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** This home-style dish of Kakariko Village is stuffed with the bounty of the mountains.
 
 ---
 
@@ -1955,7 +1955,7 @@ _Fish, crab, clam, and everything from the water._
 4. Add clams, milk, and cream. Warm gently without boiling.
 5. Season heavily with pepper and finish with parsley.
 
-**Serving note:** Pepper it hard, the way a harbour cook would.
+**Serving note:** The nutritional value of hearty blueshell snail combines with butter and milk in a rich soup.
 
 ---
 
@@ -1978,7 +1978,7 @@ _Fish, crab, clam, and everything from the water._
 3. Grill or broil, pulling delicate skewers as soon as done.
 4. Serve as a coastal feast.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** It's just a whole heap of stuff shoved on to a skewer, but it's still a pretty tasty dish.
 
 ---
 
@@ -2005,7 +2005,7 @@ _Fish, crab, clam, and everything from the water._
 3. Add crab, soy sauce, and honey. Toss until just hot.
 4. Finish with lime and serve over rice.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** The Goron spice used in preparing this crab pairs perfectly with the flavor of the meat.
 
 ---
 
@@ -2030,7 +2030,7 @@ _Fish, crab, clam, and everything from the water._
 3. Add fish and cook 4–6 minutes, just until it flakes.
 4. Stir in milk and herbs. Do not boil after adding milk.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** Thick-cut chunks of seafood and stock provides a satisfying savoriness.
 
 ---
 
@@ -2054,7 +2054,7 @@ _Fish, crab, clam, and everything from the water._
 3. Broil or grill 8–10 minutes, brushing with miso butter.
 4. Finish with lemon.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** A simple dish made by cooking skewered, fresh fish alongside fragrant mushrooms.
 
 ---
 
@@ -2081,7 +2081,7 @@ _Fish, crab, clam, and everything from the water._
 3. Add fish, peas, dill, salt, and pepper.
 4. Pour into a baking dish, cover with pastry, vent, and bake 25–30 minutes.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** A mainstay in any fisherman's home, the crisp crust pairs well with the fishy flavor.
 
 ---
 
@@ -2105,7 +2105,7 @@ _Fish, crab, clam, and everything from the water._
 3. Grill or broil 6–8 minutes, turning once, until just cooked.
 4. Serve with rice or flatbread.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** A simple dish made by cooking chunks of fresh fish on a skewer.
 
 ---
 
@@ -2130,7 +2130,7 @@ _Fish, crab, clam, and everything from the water._
 3. Add honey, lime, soy sauce, and garlic.
 4. Spoon the glaze over the seafood until shiny and cooked through.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** A seafood dish that you can actually wolf down whole!
 
 ---
 
@@ -2155,7 +2155,7 @@ _Fish, crab, clam, and everything from the water._
 3. Return steak with butter, garlic, lemon, salt, and pepper.
 4. Toss quickly and finish with parsley.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** A marriage of the choicest cuts of meat and seafood. As delicious as it is filling!
 
 ---
 
@@ -2180,7 +2180,7 @@ _Fish, crab, clam, and everything from the water._
 3. Cook pepper and garlic, then return meat and seafood.
 4. Add soy and honey and toss until coated.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** A filling dish made by cooking fresh seafood and meat together.
 
 ---
 
@@ -2204,7 +2204,7 @@ _Fish, crab, clam, and everything from the water._
 3. Add garlic and seafood; cook until just done.
 4. Finish with lime juice and serve hot.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** The pepper seeds grilled with this seafood draw out its taste and pleasant aroma.
 
 ---
 
@@ -2228,7 +2228,7 @@ _Fish, crab, clam, and everything from the water._
 3. Spoon foaming butter over the fish.
 4. Finish with lemon and parsley.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** Popular among residents of coastal regions, this juicy porgy is a delish dish.
 
 ---
 
@@ -2252,7 +2252,7 @@ _Fish, crab, clam, and everything from the water._
 3. Return meat with butter, garlic, salt, and pepper.
 4. Finish with lemon.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** This comfort dish is made with choice cuts of meat and seafood.
 
 ---
 
@@ -2276,7 +2276,7 @@ _Fish, crab, clam, and everything from the water._
 3. Add lemon juice to the pan.
 4. Spoon sauce over salmon and garnish with parsley.
 
-**Serving note:** Spoon the foaming butter over until it smells like a celebration.
+**Serving note:** The crispy skin of this fried hearty salmon puts its texture in a class all its own.
 
 ---
 
@@ -2298,7 +2298,7 @@ _Fish, crab, clam, and everything from the water._
 3. Serve with lemon.
 4. Crack shells at the table.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** Nine out of ten fishermen agree: crab is best enjoyed grilled and with just a bit of salt.
 
 ---
 
@@ -2321,7 +2321,7 @@ _Fish, crab, clam, and everything from the water._
 3. Grill or broil until skin crisps and flesh flakes.
 4. Serve with lemon.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** A simple dish made by rolling a whole fish in natural rock salt before grilling it.
 
 ---
 
@@ -2345,7 +2345,7 @@ _Fish, crab, clam, and everything from the water._
 3. Add lemon to the pan.
 4. Finish with parsley.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** Rich butter flanks fresh seafood. The secret ingredient is lots and lots of love.
 
 ---
 
@@ -2373,7 +2373,7 @@ _Fish, crab, clam, and everything from the water._
 3. Nestle seafood on top. Cook 8–10 more minutes until rice is tender and seafood is done.
 4. Rest 5 minutes and serve with lemon.
 
-**Serving note:** Let the bottom crisp into socarrat — that's the prize.
+**Serving note:** No fisherman's birthday bash would be complete without this top-shelf seafood dish.
 
 ---
 
@@ -2396,7 +2396,7 @@ _Fish, crab, clam, and everything from the water._
 3. Grill or broil until just cooked.
 4. Serve immediately.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** The natural water in this medley of seafaring creatures makes for a delicious broth.
 
 ---
 
@@ -2419,7 +2419,7 @@ _Fish, crab, clam, and everything from the water._
 3. Steam 8–12 minutes until fish flakes.
 4. Finish with oil and lemon.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** A refined dish made by wrapping a fresh fish in fragrant wild greens and cooking it.
 
 ---
 
@@ -2452,7 +2452,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 4. Crimp, vent, brush with egg, and bake 45–55 minutes until deeply golden.
 5. Rest 20 minutes before slicing so the filling sets.
 
-**Serving note:** Best eaten warm after a rainy ride between stables.
+**Serving note:** The crispy, flaky pie crust and sweet apples are a match made in heaven.
 
 ---
 
@@ -2481,7 +2481,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 4. Bake 28–35 minutes, until a toothpick comes out clean.
 5. Cool before slicing. Add cream cheese frosting if you want the stable-inn version.
 
-**Serving note:** Add cream cheese frosting for the stable-inn version.
+**Serving note:** Even those who don't like carrots tend to enjoy the mild sweetness of this cake.
 
 ---
 
@@ -2504,7 +2504,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Adjust sweetness.
 4. Serve warm or chilled.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** The flavors of the various fruits in this simmered dish exist in perfect harmony.
 
 ---
 
@@ -2529,7 +2529,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 4. Pour into ramekins and bake in a hot-water bath 30–35 minutes.
 5. Chill and serve with caramel.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** Made by cooking eggs and milk in a special mold, its soft texture melts in your mouth.
 
 ---
 
@@ -2555,7 +2555,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 4. Fill pastry shells three-quarters full.
 5. Bake 22–28 minutes, until custard is set and pastry is golden.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** You'll know this simple dessert is done baking when it smells just delightful.
 
 ---
 
@@ -2579,7 +2579,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Pour carefully onto the tray.
 4. Cool, crack into pieces, and dust to prevent sticking.
 
-**Serving note:** Dust well or you'll be prying it off the tray.
+**Serving note:** Instantly refills some of your Stamina Wheel. A natural sweet, brimming with nutrition and made by stewing fresh honey.
 
 ---
 
@@ -2604,7 +2604,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Cook thin crepes in a buttered nonstick pan.
 4. Fold and drizzle generously with honey.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** Instantly refills some of your Stamina Wheel. Honey has been drizzled over thin crepes to bring out their natural sweetness and flavor.
 
 ---
 
@@ -2628,7 +2628,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Cook 2–3 minutes until caramelized.
 4. Serve immediately.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** Children love fried mighty bananas. The trick is frying them over very high heat.
 
 ---
 
@@ -2653,7 +2653,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Fill crust, top with second crust, crimp, vent, and brush with egg.
 4. Bake 45–55 minutes until bubbling.
 
-**Serving note:** Whatever fruit is in season — it never disappoints.
+**Serving note:** A celebration isn't a celebration until this fruit-filled crust hits the table!
 
 ---
 
@@ -2681,7 +2681,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 4. Fold in fruit and zest.
 5. Bake 45–55 minutes.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Making ample use of fruits found all over Hyrule, this cake is a must for celebrations.
 
 ---
 
@@ -2704,7 +2704,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Add honey, cinnamon, and salt.
 4. Cook until glossy and serve warm.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** A juicy sweet-and-sour dish combining newly ripened apples with honey.
 
 ---
 
@@ -2727,7 +2727,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Rest 5 minutes so the juices mingle.
 4. Finish with mint.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** A dish that combines the thick sweetness of honey with the acidity of sour fruits.
 
 ---
 
@@ -2757,7 +2757,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Bake 28–34 minutes.
 4. Cool, then glaze with warmed berry jam so it drips dramatically.
 
-**Serving note:** Glaze it until it drips dramatically down the sides.
+**Serving note:** It's said that once you have a taste of this cake, you'll never forget its sweetness.
 
 ---
 
@@ -2783,7 +2783,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Mix butter, sugar, eggs, and milk, then fold into dry ingredients.
 4. Stir in nuts and bake 30–35 minutes.
 
-**Serving note:** Brown the butter first; it's what makes it taste expensive.
+**Serving note:** Forest nuts give this cake a pleasant texture and a simple, understated sweetness.
 
 ---
 
@@ -2807,7 +2807,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Cook thin layers in a buttered nonstick pan.
 4. Stack and serve with fruit, honey, or jam.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** The simplicity of this dish lets the flavor of its ingredients shine.
 
 ---
 
@@ -2833,7 +2833,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Pour into crust.
 4. Bake 45–55 minutes until just set.
 
-**Serving note:** Test with a slight wobble in the middle — that's perfect.
+**Serving note:** The intense sweetness of fortified pumpkins makes this dessert popular among children.
 
 ---
 
@@ -2856,7 +2856,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Mash lightly for a saucy texture.
 4. Serve over yogurt, oats, pancakes, or cake.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** This sweet dish is made by heaping tasty fruits into a pan and simmering until tender.
 
 ---
 
@@ -2879,7 +2879,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Fold into packets.
 4. Steam or bake until soft and fragrant.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** A regional dish made by steaming near-ripened fruits in the leaves of fragrant plants.
 
 ---
 
@@ -2904,7 +2904,7 @@ _Cakes, pies, puddings, crepes, and fruit desserts._
 3. Warm berries with a little honey or sugar.
 4. Fold berries into crepes and serve.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Sweet, tart wildberries are folded into thin, springy dough to make this dessert.
 
 ---
 
@@ -2933,7 +2933,7 @@ _Elixirs reborn as real drinks and mocktails._
 3. Top with sparkling water.
 4. Drink before crossing any desert, real or emotional.
 
-**Serving note:** Drink it before crossing any desert, real or emotional.
+**Serving note:** Grants a low/high-level cooling effect, raising your body's resistance to heat. Crucial for long journeys through the desert.
 
 ---
 
@@ -2957,7 +2957,7 @@ _Elixirs reborn as real drinks and mocktails._
 3. Top with sparkling water.
 4. Serve when the weather feels electric.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** Grants a low/mid/high-level resistance to electricity. Useful against enemies with electrical attacks.
 
 ---
 
@@ -2981,7 +2981,7 @@ _Elixirs reborn as real drinks and mocktails._
 2. Add more milk if it is too thick.
 3. Serve cold before a long walk, climb, or work session.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Restores stamina and temporarily extends your Stamina Wheel. The additional stamina will disappear as it's used.
 
 ---
 
@@ -3005,7 +3005,7 @@ _Elixirs reborn as real drinks and mocktails._
 3. Pour into glasses.
 4. Add sparkling water if you want it lighter.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** Restores your stamina, which is used when performing physical actions such as climbing walls or swimming.
 
 ---
 
@@ -3030,7 +3030,7 @@ _Elixirs reborn as real drinks and mocktails._
 3. Pour over ice and top with sparkling water.
 4. Add a small splash of cream for a glowing pink tonic.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** This powerful recovery elixir harnesses the power of fairies. It has a sweet fragrance.
 
 ---
 
@@ -3055,7 +3055,7 @@ _Elixirs reborn as real drinks and mocktails._
 3. Taste and adjust salt and lime.
 4. Serve with spicy food or hot-weather meals.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** Grants a fireproof effect, which prevents your body from catching fire. Be sure to pack this when venturing out to explore Death Mountain.
 
 ---
 
@@ -3079,7 +3079,7 @@ _Elixirs reborn as real drinks and mocktails._
 3. Pour over ice and top with sparkling water.
 4. Slap mint leaves between your palms and add them to the glass.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Grants a low/mid/high-level haste effect, which boosts your movement speed while running, swimming, or climbing.
 
 ---
 
@@ -3102,7 +3102,7 @@ _Elixirs reborn as real drinks and mocktails._
 2. Add water or juice to thin if needed.
 3. Serve cold as a filling recovery drink.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** Restores you to full health and increases your maximum hearts. The additional hearts are lost as you take damage.
 
 ---
 
@@ -3126,7 +3126,7 @@ _Elixirs reborn as real drinks and mocktails._
 3. Serve over ice.
 4. Add ginger for extra bite.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** Grants a low/mid/high-level might effect, which strengthens your body and mind to boost your attack power with all weapons.
 
 ---
 
@@ -3149,7 +3149,7 @@ _Elixirs reborn as real drinks and mocktails._
 3. Stir in honey.
 4. Serve warm and quiet.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** Grants a low/mid/high-level stealth effect, which calms the nerves and silences footfalls. Allows you to move about undetected by monsters and animals.
 
 ---
 
@@ -3173,7 +3173,7 @@ _Elixirs reborn as real drinks and mocktails._
 3. Sweeten to taste.
 4. Serve hot before cold-weather chapters.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Warms your body from its core, increasing your resistance to cold environments. Very useful in the snow-covered mountains.
 
 ---
 
@@ -3198,7 +3198,7 @@ _Elixirs reborn as real drinks and mocktails._
 3. Taste and adjust lemon and salt.
 4. Serve bright orange and bracing.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Grants a low/mid/high-level toughness effect, which fortifies your bones to strengthen your defense. Best to use before facing off against hard-hitting enemies.
 
 ---
 
@@ -3226,7 +3226,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Top with sparkling water and stir gently.
 4. Serve when you need a little cave-light courage.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** Restores your stamina, which is used when performing physical actions such as climbing walls or swimming.
 
 ---
 
@@ -3249,7 +3249,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Uncover and cook until the butter lightly browns and coats the onions.
 4. Season with salt and pepper.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** A simple dish of stambulb sautéed with goat butter. Sweet with a hint of spice.
 
 ---
 
@@ -3275,7 +3275,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 4. Bake 35–40 minutes until barely set.
 5. Chill before slicing.
 
-**Serving note:** Chill it overnight for the cleanest slice.
+**Serving note:** A cheese made from Hateno cow's milk. Add it to a warm dish, and enjoy its rich flavor and melty texture.
 
 ---
 
@@ -3299,7 +3299,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Mix cheese, crumbs, and butter; press over fish.
 4. Bake 12–15 minutes until fish flakes and topping browns.
 
-**Serving note:** Keep this one in the back pocket.
+**Serving note:** A cheese made from Hateno cow's milk. Add it to a warm dish, and enjoy its rich flavor and melty texture.
 
 ---
 
@@ -3323,7 +3323,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Stir in curry roux until glossy.
 4. Spoon over rice, top with cheese, and broil or cover until melted.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** A cheese made from Hateno cow's milk. Add it to a warm dish, and enjoy its rich flavor and melty texture.
 
 ---
 
@@ -3347,7 +3347,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Spoon over hot rice.
 4. Top with cheese, cover for 1 minute to melt, and finish with scallion.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** This dish of rice and lightly seared meat is a mainstay all throughout Hyrule.
 
 ---
 
@@ -3370,7 +3370,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Add eggs and stir gently until soft curds form.
 4. Add cheese and vegetables, fold, and serve while melty.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** A cheese made from Hateno cow's milk. Add it to a warm dish, and enjoy its rich flavor and melty texture.
 
 ---
 
@@ -3395,7 +3395,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Fold in mushrooms, greens, or fish.
 4. Melt in cheese and season well.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** Rich risotto made with fish or mushroom mixed with Hylian Rice and Hateno cheese.
 
 ---
 
@@ -3419,7 +3419,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Cover with cheese.
 4. Broil until bubbling and browned at the edges.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** A cheese made from Hateno cow's milk. Add it to a warm dish, and enjoy its rich flavor and melty texture.
 
 ---
 
@@ -3441,7 +3441,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Cook scallions until blistered and softened, 3–5 minutes.
 4. Season with salt and lemon.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Instantly refills some of your Stamina Wheel. A wild dish of a whole stambulb roasted with its skin on. Sweet and tasty.
 
 ---
 
@@ -3466,7 +3466,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Add meat and soy sauce.
 4. Push rice aside, scramble eggs, then fold together with scallion.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Various seafood has been sautéed with rice. The stronger the flame, the tastier the dish!
 
 ---
 
@@ -3492,7 +3492,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Add egg, milk, and butter; mix until smooth.
 4. Bake 28–34 minutes and cool before slicing.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Dark Cake
 
 ---
 
@@ -3517,7 +3517,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Stir in curry roux and black garlic.
 4. Serve over rice.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** "A hard-hitting curry with a dark-clump base, whose flavor is hard to hide.
 
 ---
 
@@ -3539,7 +3539,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 2. Wet your hands and shape into balls or triangles.
 3. Wrap with nori if desired.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** Dark Rice Balls "A bold rice ball made with dark clump and Hylian rice. Its flavor is unforgettable!"
 
 ---
 
@@ -3565,7 +3565,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 4. Add milk and black garlic.
 5. Blend partly and season.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** "A gooey soup built on stewed dark clump. One could get lost in its swirls and flavors.
 
 ---
 
@@ -3590,7 +3590,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Simmer 35 minutes.
 4. Add seafood and cook just until done.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** A daring dish of dark clump stewed with meat and fish. What a surprise!
 
 ---
 
@@ -3615,7 +3615,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Dredge chicken, then fry in batches until crisp and cooked through.
 4. Keep warm on a rack in a low oven while finishing batches.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** This raw whole bird has been tickled by an open flame to bring out its flavor. Less is more, as the lack of additional seasoning allows its natural taste to shine.
 
 ---
 
@@ -3640,7 +3640,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Dredge chicken, then fry in 1 inch of oil, turning often, until crisp and 165°F / 74°C inside.
 4. Drain and salt lightly.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** A mild oil extracted from plant seeds, it's very versatile in cooking and can coax flavors from ingredients used in many dishes. Also good for adding fuel to fire.
 
 ---
 
@@ -3665,7 +3665,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Dredge chicken and fry until deeply golden and cooked through.
 4. Rest on a rack so the crust stays crisp.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** A mild oil extracted from plant seeds, it's very versatile in cooking and can coax flavors from ingredients used in many dishes. Also good for adding fuel to fire.
 
 ---
 
@@ -3692,7 +3692,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 4. Add seafood and cook just until done.
 5. Season with salt and lemon.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Thick-cut chunks of seafood and stock provides a satisfying savoriness.
 
 ---
 
@@ -3717,7 +3717,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Blend smooth, then stir in milk.
 4. Season with salt, pepper, and basil.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** A colorful dish, a bounty of fruit simmered with fresh tomatoes.
 
 ---
 
@@ -3741,7 +3741,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Add butter to the hot pan and spoon over the bowl.
 4. Top with cheese and chives.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Only the most carefully selected cuts of high-quality meats go into this dish.
 
 ---
 
@@ -3766,7 +3766,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 4. Bake until the crust is browned and cheese bubbles.
 5. Finish with basil.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** A pizza made with fresh Hylian tomato. Slices of melty Hateno cheese make it irresistible.
 
 ---
 
@@ -3789,7 +3789,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Bake at 425°F / 220°C until melted and browned.
 4. Finish with parsley and cut into wedges.
 
-**Serving note:** Simple, honest, and better than it needs to be.
+**Serving note:** Is there anything better than a simple slice of bread baked with Hateno cheese on top?
 
 ---
 
@@ -3814,7 +3814,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Pour over ice and top with sparkling water.
 4. Serve with a lightly salted rim.
 
-**Serving note:** A salted rim makes it feel like a proper drink.
+**Serving note:** The Noble canteen's most famous drink... or an iced tropical-juice mixture that does it justice.
 
 ---
 
@@ -3838,7 +3838,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Serve over rice with pan butter and cheese.
 4. Cover briefly so the cheese softens.
 
-**Serving note:** Tastes like a longer trip than it took.
+**Serving note:** This bowl is loaded with high-quality meat. Your hunt for a serious meal ends here.
 
 ---
 
@@ -3861,7 +3861,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Simmer 8–10 minutes until saucy but still bright.
 4. Finish with herbs and eat with bread or rice.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** When simmered until tender, nutritious tomatoes can give this dish a sour kick.
 
 ---
 
@@ -3886,7 +3886,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Pile greens on top, sprinkle with salt, cover, and steam 4–5 minutes.
 4. Toss gently, finish with herbs and lemon, and serve warm.
 
-**Serving note:** A five-minute bowl that tastes like summer.
+**Serving note:** When simmered until tender, nutritious tomatoes can give this dish a sour kick.
 
 ---
 
@@ -3909,7 +3909,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 2. Rest 10 minutes so the chia lightly gels.
 3. Pour over ice and stir before drinking.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** Grants a low-level slip resistance to keep you from slipping on wet surfaces. Its highly absorptive ingredients make it a must-have for sudden rainfalls.
 
 ---
 
@@ -3933,7 +3933,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Add tomatoes, salt, and pepper.
 4. Simmer until thick and savory.
 
-**Serving note:** Worth making once and then again by memory.
+**Serving note:** A dish of fragrant mushrooms simmered with tomato. Healthy and rich in fiber.
 
 ---
 
@@ -3958,7 +3958,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 4. Add seafood and cook gently until done.
 5. Finish with lemon.
 
-**Serving note:** A good one to know by heart.
+**Serving note:** Thick-cut chunks of seafood and stock provides a satisfying savoriness.
 
 ---
 
@@ -3982,7 +3982,7 @@ _Non-duplicate Tears of the Kingdom dishes._
 3. Cook until creamy and green-flecked.
 4. Season with salt and pepper.
 
-**Serving note:** Rustic and unfussy — the way camp food should be.
+**Serving note:** Porridge made of easy-to-digest vegetables, fresh milk, and Hylian rice. An uplifting dish.
 
 ---
 

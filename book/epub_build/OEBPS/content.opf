@@ -6,7 +6,7 @@
     <dc:creator>Arian Rezvani with Hermes Agent</dc:creator>
     <dc:language>en</dc:language>
     <dc:description>An unofficial real-world cookbook inspired by Breath of the Wild, Tears of the Kingdom, and Skyrim cooking, with original recipes.</dc:description>
-    <meta property="dcterms:modified">2026-09-29T11:55:43Z</meta>
+    <meta property="dcterms:modified">2026-09-29T12:22:39Z</meta>
   </metadata>
   <manifest>
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>

@@ -63,3 +63,15 @@ def test_epub_is_valid_and_ordered():
 def test_print_edition_exists():
     html = read("book/The_Wild_Table.html")
     assert "Print / Save as PDF" in html and "@media print" in html
+
+
+def test_zelda_recipes_use_ingame_flavor_text():
+    m = model()
+    zelda = [r for c in m["chapters"] if c["slug"] != "skyrim" for r in c["recipes"]]
+    assert len(zelda) == 160
+    assert all(r["note"] for r in zelda), "every BotW/TotK recipe needs flavor text"
+    apple = next(r for r in zelda if r["title"] == "Apple Pie")
+    assert "match made in heaven" in apple["note"]
+    # the old generic filler must be gone everywhere
+    assert not any("better than it needs to be" in r["note"]
+                   for c in m["chapters"] for r in c["recipes"])
